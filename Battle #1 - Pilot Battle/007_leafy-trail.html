@@ -1,0 +1,48 @@
+<!--
+    Problem: https://cssbattle.dev/play/7
+    Score: 622.92 (300 chars), 100% match
+-->
+
+<body bgcolor=0b2429></body>
+<x></x>
+<x></x>
+<style>
+  x {
+    position: fixed;
+    top: 75;
+    left: 75;
+    width: 150;
+    height: 150;
+    background: #1a4341;
+    border-radius: 67% 0;
+  }
+  x:nth-of-type(2) {
+    left: 175;
+    box-shadow: -50px 0 #998235;
+    background: #f3ac3c
+  }
+</style>
+
+
+<!-- Possible solution with just one div -->
+<body bgcolor=0b2429></body>
+<div></div>
+<style>
+  div, div:before {
+    position: fixed;
+    top: 75;
+    width: 150;
+    height: 150;
+    border-radius: 67% 0;
+    background: #1a4341;
+  }
+  div:before {
+    background: #F3AC3C;
+    box-shadow: -50px 0 #998235;
+    left: 175;
+    content: '';
+  }
+  div {
+    left: 75;
+  }
+</style>
