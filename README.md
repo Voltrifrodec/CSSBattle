@@ -1,7 +1,14 @@
 # CSSBattle
 Repository for solved task on [CSSBattle](https://cssbattle.dev). Score is counted without comments and with reasonable text formatting.
 
-Link to profile: [https://cssbattle.dev/player/xod8rxnnNjUFvjtaBqoTrkyUGpt2](https://cssbattle.dev/player/xod8rxnnNjUFvjtaBqoTrkyUGpt2)
+Link to profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
+### Stats
+*last update: 2022-12-05 17:31*
+<br>
+Score: 10441.90
+<br>
+Challenges solved: 8
+
 
 ## Solved Challenges
 ### Battle 1 - Pilot Battle
@@ -10,6 +17,7 @@ Link to profile: [https://cssbattle.dev/player/xod8rxnnNjUFvjtaBqoTrkyUGpt2](htt
 | 001 | [Simply Square](https://cssbattle.dev/play/1) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/001_simply-square.html) | 667.94 (186 chars) | 100.00% |
 | 002 | [Marrom](https://cssbattle.dev/play/2) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/002_marrom.html) | 620.64 (311 chars)| 100.00% |
 | 003 | [Push Button](https://cssbattle.dev/play/3) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/003_push-button.html) | 607.37 (419 chars) | 100.00% |
+| 003 | [Ups n Downs](https://cssbattle.dev/play/4) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/004_ups-n-downs.html) | 604.89 (462 chars) | 100.00% |
 | 005 | [Acid Rain](https://cssbattle.dev/play/5) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/005_acid-rain.html) | 607.17 (422 chars) | 100.00% |
 | 006 | [Missing Slice](https://cssbattle.dev/play/6) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/006_missing-slice.html) | 600.91 (639 chars) | 100.00% |
 | 007 | [Leafy Trail](https://cssbattle.dev/play/7) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%231%20-%20Pilot%20Battle/007_leafy-trail.html) | 622.92 (300 chars) | 100.00% |
@@ -32,7 +40,7 @@ Link to profile: [https://cssbattle.dev/player/xod8rxnnNjUFvjtaBqoTrkyUGpt2](htt
 ### Battle 5 - Inline
 | No. | Challenge | Solution | Score | Accurancy |
 |-----|-----------|----------|-------|-----------|
-| 030 | [Horizon](https://cssbattle.dev/play/30) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%235%20-%20Horizon/030_horizon.html) | 615.07 (344 chars) | 100.00% |
+| 030 | [Horizon](https://cssbattle.dev/play/30) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%235%20-%20Inline/030_horizon.html) | 615.07 (344 chars) | 100.00% |
 
 
 ### Battle 7 - Backface
@@ -40,3 +48,10 @@ Link to profile: [https://cssbattle.dev/player/xod8rxnnNjUFvjtaBqoTrkyUGpt2](htt
 |-----|-----------|----------|-------|-----------|
 | 034 | [Christmas Tree](https://cssbattle.dev/play/34) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%237%20-%20Backface/034_christmas-tree.html) | 608.43 (405 chars) | 100.00% |
 | 037 | [Tunnel](https://cssbattle.dev/play/37) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%237%20-%20Backface/037_tunnel.html) | 605.92 (442 chars) | 100.00% |
+
+
+### Battle 11 - Overflow
+| No. | Challenge | Solution | Score | Accurancy |
+|-----|-----------|----------|-------|-----------|
+| 053 | [Pastel Logo](https://cssbattle.dev/play/53) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2311%20-%20overflow/053_pastel-logo.html) | 608.51 (404 chars) | 100.00% |
+| 055 | [Windmill](https://cssbattle.dev/play/55) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2311%20-%20overflow/055_windmill.html) | 600.84 (647 chars) | 100.00% |
