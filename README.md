@@ -3,11 +3,11 @@ Repository for solved task on [CSSBattle](https://cssbattle.dev). Score is count
 
 Link to profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
 ### Stats
-*last update: 2022-12-05 17:31*
+*last update: 2022-12-07 14:22*
 <br>
-Score: 10441.90
+Score: 11562.49
 <br>
-Challenges solved: 8
+Challenges solved: 18
 
 
 ## Solved Challenges
@@ -35,6 +35,13 @@ Challenges solved: 8
 | No. | Challenge | Solution | Score | Accurancy |
 |-----|-----------|----------|-------|-----------|
 | 019 | [Cube](https://cssbattle.dev/play/19) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%233%20-%20Cursor/019_cube.html) | 601.56 (582 chars) | 100.00% |
+
+
+### Battle 4 - Display
+| No. | Challenge | Solution | Score | Accurancy |
+|-----|-----------|----------|-------|-----------|
+| 023 | [Boxception](https://cssbattle.dev/play/23) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%234%20-%20Disply/023_boxception.html) | 607.52 (406 chars) | 100.00% |
+| 024 | [Cube](https://cssbattle.dev/play/19) | [Solution](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%234%20-%20Display/024_switch.html) | 602.24 (544 chars) | 100.00% |
 
 
 ### Battle 5 - Inline
