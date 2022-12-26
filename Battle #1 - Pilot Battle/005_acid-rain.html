@@ -1,32 +1,38 @@
 <!--
-    Problem: https://cssbattle.dev/play/5
-    Score: 607.17 (422 chars), 100% match
+    Challenge: #5. Acid Rain
+    Link: https://cssbattle.dev/play/5
+    Score (normal): 608.92 (399 chars)
+    Highscore: 621.04 (309 chars)
 -->
 
-<body bgcolor=0b2429></body>
-<div></div>
-<div></div>
-<div></div>
+
+{# Normal solution #}
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
 <style>
+  body {
+    background: #0B2429;
+  }
   div {
-    width: 120px;
-    height: 120px;
-    background: #f3ac3c;
-    border-radius: 50% 0 50% 50%;
-    position: fixed;
-    right: 80;
+    background: #F3AC3C;
+    width: 120;
+    height: 120;
+    border-radius: 0 50% 50%;
+    rotate: 90deg;
   }
-  div:nth-of-type(1) {
-    transform: rotate(-180deg);
-    top: 30;
+  .a {
+    translate: 192px 22px;
+    rotate: -90deg;
   }
-  div:nth-of-type(2) {
+  .b {
     background: #998235;
-    bottom: 90;
-    left: 140
+    translate: 132px -38px;
   }
-  div:nth-of-type(3) {
-    bottom: 30;
-    left: 80
+  .c {
+    translate: 72px -98px;
   }
 </style>
+
+{# Compact solution #}
+<body bgcolor=0b2429><x></x><x></x><x></x><style>x{display:block;width:120px;height:120px;background:#F3AC3C;border-radius:50% 0 50% 50%;position:fixed;right:80}x:nth-of-type(1){transform:rotate(-180deg);top:30}x:nth-of-type(2){background:#998235;bottom:90;left:140}x:nth-of-type(3){bottom:30;left:80}</style>

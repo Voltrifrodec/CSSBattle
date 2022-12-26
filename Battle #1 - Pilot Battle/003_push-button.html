@@ -1,29 +1,36 @@
 <!--
-    Problem: https://cssbattle.dev/play/3
-    Score: 607.37 (419 chars), 100% match
+    Challenge: #3. Push Button
+    Link: https://cssbattle.dev/play/3
+    Score (normal): 606.96 (425 chars)
+    Highscore: --==--
 -->
 
-<div id="x"></div>
-<div id="y"></div>
+
+{# Normal solution #}
+<div class="x"></div>
+<div class="y"></div>
 <style>
   body {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  *, #y { background: #6592cf; }
-  #x {
-    background: #243d83;
+  *, .y { background: #6592CF; }
+  .x {
+    background: #243D83;
     width: 300;
     height: 150;
   }
-  #y {
+  .y {
     width: 50;
     height: 50;
     position: fixed;
-    background: #eeb850;
-    border: 50px solid #243d83;
+    background: #EEB850;
+    border: 50px solid #243D83;
     border-radius: 50%;
-    outline: 50px solid #6592cf;
+    outline: 50px solid #6592CF;
   }
 </style>
+
+
+{# Compact solution #}

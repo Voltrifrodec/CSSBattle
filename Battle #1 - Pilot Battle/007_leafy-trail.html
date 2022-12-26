@@ -1,48 +1,35 @@
 <!--
-    Problem: https://cssbattle.dev/play/7
-    Score: 622.92 (300 chars), 100% match
+    Challenge: #7. Leafy Trail
+    Link: https://cssbattle.dev/play/7
+    Score: 609.81 (398 chars)
+    Highscore: 658.89 (201 chars)
 -->
 
-<body bgcolor=0b2429></body>
-<x></x>
-<x></x>
-<style>
-  x {
-    position: fixed;
-    top: 75;
-    left: 75;
-    width: 150;
-    height: 150;
-    background: #1a4341;
-    border-radius: 67% 0;
-  }
-  x:nth-of-type(2) {
-    left: 175;
-    box-shadow: -50px 0 #998235;
-    background: #f3ac3c
-  }
-</style>
 
-
-<!-- Possible solution with just one div -->
-<body bgcolor=0b2429></body>
-<div></div>
+{# Normal solution #}
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
 <style>
-  div, div:before {
-    position: fixed;
-    top: 75;
-    width: 150;
-    height: 150;
-    border-radius: 67% 0;
-    background: #1a4341;
-  }
-  div:before {
-    background: #F3AC3C;
-    box-shadow: -50px 0 #998235;
-    left: 175;
-    content: '';
-  }
+  body { background: #0B2429; }
   div {
-    left: 75;
+    width: 150;
+    height: 150;
+    background: #1A4341;
+    border-radius: 67% 0;
+    translate: 67px 67px;
+    display: inline-block;
+  }
+  .b {
+    background: #998235;
+    translate: -37.6px 67.4px;
+  }
+  .c {
+    background: #F3AC3C;
+    translate: 167.6px -87.4px;
   }
 </style>
+
+
+{# Compact solution #}
+<body bgcolor=0b2429><x></x><x><style>x{position:fixed;top:75;left:75;width:150;height:150;background:#1a4341;border-radius:67%0;}x:nth-of-type(2){left:175;box-shadow:-50px 0#998235;background:#f3ac3c}

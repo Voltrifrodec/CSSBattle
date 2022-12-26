@@ -1,33 +1,37 @@
 <!--
-    Problem: https://cssbattle.dev/play/1
-    Score: 604.89 (462 chars), 100% match
-
-    badly coded
+    Challenge: #4. Ups n Downs
+    Link: https://cssbattle.dev/play/4
+    Score (normal): 606.90 (426 chars)
+    Highscore: 624.74 (292 chars)
 -->
 
-<body bgcolor=62306d></body>
-<div></div>
-<div></div>
-<div></div>
+
+{# Normal solution #}
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
 <style>
-  div {
-    height: 100;
+  *:not(html) { background: #F7EC7D }
+  body { background: #62306D }
+  .a, .b, .c {
     width: 100;
-    background: #f7ec7d;
-    display: inline-block;
-    translate: 41px 42px;  
+    height: 100;
     border-radius: 50% 50% 0 0;
+    display: inline-block;
   }
   div:nth-of-type(odd) {
-    rotate: -180deg;
+    rotate: 180deg;
   }
-  div:nth-of-type(1) {
-    translate: 42.51px 142.5px;
+  .a {
+    translate: 42px 142px;
   }
-  div:nth-of-type(2) {
-    translate: 37.6px 42.4px;
+  .b {
+      translate: 38px 42px;
   }
-  div:nth-of-type(3) {
-    translate: 33.7px 142.5px;
+  .c {
+    translate: 34px 142px;
   }
 </style>
+
+{# Compact solution #}
+<body bgcolor=62306D><x></x><x></x><x><style>x{height:100;width:100;background:#F7EC7D;display:inline-block;border-radius:50%50%0 0;}x:nth-of-type(odd){rotate:180deg}x:nth-of-type(1){translate:42.51px 142.5px}x:nth-of-type(2){translate:42.5px 42.4px}x:nth-of-type(3){translate:42.5px 142.5px}

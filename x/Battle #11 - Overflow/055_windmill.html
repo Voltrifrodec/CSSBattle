@@ -1,0 +1,76 @@
+<!--
+    Problem: https://cssbattle.dev/play/55
+    Score: 600.84 (647 chars), 100% match
+-->
+
+<!-- Using :before pseudo-element (Score: 600.84 (647 chars), 100% match) -->
+<body bgcolor=191919></body>
+<div></div>
+<div></div>
+<style>
+  div, div:before {
+    position: absolute;
+    border: 50px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent #4f77ff #4f77ff transparent;
+  }
+  div:nth-child(even), div:nth-child(even):before {
+    border-color: transparent #F9E492 #F9E492 transparent;
+  }
+  div {
+    right: 150;
+    top: 50;
+    width: 0;
+    transform: rotate(-45deg);
+  }
+  div:before {
+    content: '';
+    display: block;
+    transform: rotate(-180deg);
+    right: 21;
+    top: 21;
+  }
+  div:nth-of-type(2) {
+    transform: rotate(45deg);
+    right: 100;
+    top: 100;
+  }
+</style>
+
+<!-- Using multiple tags Score: 602.58 (513 chars), 100% match -->
+<body bgcolor=191919></body>
+<a></a>
+<b></b>
+<c></c>
+<d>
+<style>
+  *:not(body,html) {
+    border: 50px;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+    rotate: -45deg;
+    top: 50;
+    left: 150;
+  }
+  a, c {
+    border-color: transparent #4f77ff #4f77ff transparent;
+  }
+  b, d {
+    border-color: transparent #F9E492 #F9E492 transparent;
+    top: 100;
+  }
+  a {
+    rotate: 135deg;
+    top: 150;
+  }
+  b {
+    rotate: -135deg;
+    left: 100;
+  }
+  d {
+    rotate: 45deg;
+    left: 200;
+  }
+</style>

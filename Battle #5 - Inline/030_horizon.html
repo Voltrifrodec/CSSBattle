@@ -1,32 +1,24 @@
 <!--
-    Problem: https://cssbattle.dev/play/30
-    Score: 615.07 (344 chars), 100% match
+    Challenge: #30. Horizon
+    Link: https://cssbattle.dev/play/30
+    Score (normal): 637.99 (247 chars)
+    Highscore: 772.90 (88 chars)
 -->
 
-<body bgcolor=62306d>
-<x></x>
-<y></y>
-<z>
+
+{# Normal solution #}
+<div class="a"></div>
 <style>
   body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    background: linear-gradient(to bottom, #AA445F 66.5%, #62306D 0);
     margin: 0;
   }
-  body > x, y, z {
-    width: 100%;
-    display: block;
-    height: 50;
-  }
-  x {
-    background: #f7ec7d;
-  }
-  y {
-    background: #E38F66;
-  }
-  z {
-    background: #aa445f;
+  .a {
+    width: 400;
     height: 100;
+    background: linear-gradient(to bottom, #F7EC7D 50%, #E38F66 0)
   }
 </style>
+
+{# Compact solution (Note: no idea what type of measurement q is, but it works) #}
+<p style=box-shadow:0+0+0+45q#f7ec7d,0+0+0+98q#e38f66,0+0+0+2in#aa445f,0+0+0+4in#62306d>
