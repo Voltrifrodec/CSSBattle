@@ -38,6 +38,7 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
 </table>
 
 Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
+
 ---
 
 
@@ -295,7 +296,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 Challenges with <code>*</code> were made with a help from videos made by [Brizman](https://www.youtube.com/@Brizman), so code is not included since it's almost identical to his. His videos are really helpful for those challenges.
 
 
-<style>
+<!-- <style>
     thead { text-align: left; }
     td:nth-child(3), td:nth-child(4), td:nth-child(5) { text-align: center; }
-</style>
+</style> -->
