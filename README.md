@@ -3,7 +3,7 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
 
 <!-- I'm really sorry for you seeing this... -->
 <table style="margin: 5vh auto !important; display:block; width: 30%; padding-left: 3vh">
-    <caption>
+    <!-- <caption>
         <img
             src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fxod8rxnnNjUFvjtaBqoTrkyUGpt2%2Favatar_xod8rxnnNjUFvjtaBqoTrkyUGpt2.png?alt=media"
             alt="CSSBattle Profile Picture"
@@ -17,7 +17,7 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
                      display: block">
             Voltrifrodec
         </span>
-    </caption>
+    </caption> -->
     <thead>
         <th colspan="2" style="text-align:center">Current Stats</th>
     </thead>
