@@ -45,15 +45,15 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 ## Battle #1 - Pilot Battle
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
-| 001 | [Simply Square](https://cssbattle.dev/play/1) | [❌]() | 0 | 0 |
-| 002 | [Carrom](https://cssbattle.dev/play/2) | [❌]() | 0 | 0 |
-| 003 | [Push Button](https://cssbattle.dev/play/3) | [❌]() | 0 | 0 |
-| 004 | [Ups n Downs](https://cssbattle.dev/play/4) | [❌]() | 0 | 0 |
-| 005 | [Acid Rain](https://cssbattle.dev/play/5) | [❌]() | 0 | 0 |
-| 006 | [Missing Slice](https://cssbattle.dev/play/6) | [❌]() | 0 | 0 |
-| 007 | [Leafy Trail](https://cssbattle.dev/play/7) | [❌]() | 0 | 0 |
+| 001 | [Simply Square](https://cssbattle.dev/play/1) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 002 | [Carrom](https://cssbattle.dev/play/2) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 003 | [Push Button](https://cssbattle.dev/play/3) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 004 | [Ups n Downs](https://cssbattle.dev/play/4) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 005 | [Acid Rain](https://cssbattle.dev/play/5) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 006 | [Missing Slice](https://cssbattle.dev/play/6) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
+| 007 | [Leafy Trail](https://cssbattle.dev/play/7) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/001_pilot.html) | 0 | 0 |
 | 008 | [Forking Crazy](https://cssbattle.dev/play/8) | [❌]() | 0 | 0 |
-| 009 | [Tesseract](https://cssbattle.dev/play/9) | [❌]() | 0 | 0 |
+| 009 | [Tesseract](https://cssbattle.dev/play/9) | [❌](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%20%2301%20-%20Pilot%20Battle/009_tesseract.html) | 0 | 0 |
 | 010 | [Cloaked Spirits](https://cssbattle.dev/play/10) | [❌]() | 0 | 0 |
 | 011 | [Eye of Sauron](https://cssbattle.dev/play/11) | [❌]() | 0 | 0 |
 | 012 | [Wiggly Moustache](https://cssbattle.dev/play/12) | [❌]() | 0 | 0 |
