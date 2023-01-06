@@ -292,7 +292,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | 140 | [Eclipse](https://cssbattle.dev/play/140) | [❌]() | 0 | 0 |
 
 
----
+---        
 Challenges with <code>*</code> were made with a help from videos made by [Brizman](https://www.youtube.com/@Brizman), so code is not included since it's almost identical to his. His videos are really helpful for those challenges.
 
 
