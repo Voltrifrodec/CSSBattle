@@ -24,7 +24,7 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
     <tbody>
         <tr>
             <td>Finished Targets</td>
-            <td>10/140</td>
+            <td>14/140</td>
         </tr>
         <tr>
             <td>Targets Played</td>
@@ -73,7 +73,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 ## Battle #3 - Cursor
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
-| 019 | [Cube](https://cssbattle.dev/play/19) | [❌]() | 0 | 0 |
+| 019 | [Cube](https://cssbattle.dev/play/19) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2003%20-%20Cursor/019_cube.html) | 601.56 (582 chars) |  |
 | 020 | [Ticket](https://cssbattle.dev/play/20) | [❌]() | 0 | 0 |
 
 
@@ -82,8 +82,8 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 |-----|------------------|--------|------|------------|
 | 021 | [SitePoint Logo](https://cssbattle.dev/play/21) | [❌]() | 0 | 0 |
 | 022 | [Cloud](https://cssbattle.dev/play/22) | [❌]() | 0 | 0 |
-| 023 | [Boxception](https://cssbattle.dev/play/23) | [❌]() | 0 | 0 |
-| 024 | [Switches](https://cssbattle.dev/play/24) | [❌]() | 0 | 0 |
+| 023 | [Boxception](https://cssbattle.dev/play/23) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2004%20-%20Display/023_boxception.html) | 607.52 (417 chars) |  |
+| 024 | [Switches](https://cssbattle.dev/play/24) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2004%20-%20Display/024_watches.html) | 602.24 (544 chars) |  |
 | 025 | [Blossom](https://cssbattle.dev/play/25) | [❌]() | 0 | 0 |
 | 026 | [Smiley](https://cssbattle.dev/play/26) | [❌]() | 0 | 0 |
 | 027 | [Lock Up](https://cssbattle.dev/play/27) | [❌]() | 0 | 0 |
@@ -94,7 +94,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
 | 029 | [Suffocate](https://cssbattle.dev/play/29) | [❌]() | 0 | 0 |
-| 030 | [Horizon](https://cssbattle.dev/play/30) | [❌]() | 0 | 0 |
+| 030 | [Horizon](https://cssbattle.dev/play/30) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2005%20-%20Inline/030_horizon.html) | 637.99 (247 chars) | 772.90 (88 chars) |
 
 
 ## Battle #6 - Conic
