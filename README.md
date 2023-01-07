@@ -24,11 +24,11 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
     <tbody>
         <tr>
             <td>Finished Targets</td>
-            <td>14/140</td>
+            <td>25/140 (17.86%)</td>
         </tr>
         <tr>
             <td>Targets Played</td>
-            <td>26/140</td>
+            <td>26/140 (17.86%)</td>
         </tr>
         <tr>
             <td>Score</td>
@@ -108,10 +108,10 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
 | 033 | [Birdie](https://cssbattle.dev/play/33) | [❌]() | 0 | 0 |
-| 034 | [Christmas Tree](https://cssbattle.dev/play/34) | [❌]() | 0 | 0 |
+| 034 | [Christmas Tree](https://cssbattle.dev/play/34) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2007%20-%20Backface/034_christmas-tree.html) | 608.43 (405 chars) | 620.06 (314 chars) |
 | 035 | [Ice Cream](https://cssbattle.dev/play/35) | [❌]() | 0 | 0 |
 | 036 | [Interleaved](https://cssbattle.dev/play/36) | [❌]() | 0 | 0 |
-| 037 | [Tunnel](https://cssbattle.dev/play/37) | [❌]() | 0 | 0 |
+| 037 | [Tunnel](https://cssbattle.dev/play/37) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2007%20-%20Backface/037_tunnel.html) | 605.92 (442 chars) |  |
 | 038 | [Not Simply Square](https://cssbattle.dev/play/38) | [❌]() | 0 | 0 |
 | 039 | [Sunset](https://cssbattle.dev/play/39) | [❌]() | 0 | 0 |
 | 040 | [Letter B](https://cssbattle.dev/play/40) | [❌]() | 0 | 0 |
@@ -147,9 +147,9 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 ## Battle #11 - Overflow
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
-| 053 | [Pastel Logo](https://cssbattle.dev/play/53) | [❌]() | 0 | 0 |
+| 053 | [Pastel Logo](https://cssbattle.dev/play/53) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2011%20-%20Overflow/053_pastel-logo.html) | 608.51 (404 chars) | 632.31 (264 chars) |
 | 054 | [Black Live Matters](https://cssbattle.dev/play/54) | [❌]() | 0 | 0 |
-| 055 | [Windmill](https://cssbattle.dev/play/55) | [❌]() | 0 | 0 |
+| 055 | [Windmill](https://cssbattle.dev/play/55) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2011%20-%20Overflow/055_windmill.html) | 603.44 (499 chars) | 613.31 (357 chars) |
 | 056 | [Skull](https://cssbattle.dev/play/56) | [❌]() | 0 | 0 |
 | 057 | [Pillars](https://cssbattle.dev/play/57) | [❌]() | 0 | 0 |
 | 058 | [Rose](https://cssbattle.dev/play/58) | [❌]() | 0 | 0 |
@@ -208,8 +208,8 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 ## Battle #16 - Aspect
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
-| 089 | [Summit](https://cssbattle.dev/play/89) | [❌]() | 0 | 0 |
-| 090 | [Eclipse](https://cssbattle.dev/play/90) | [❌]() | 0 | 0 |
+| 089 | [Summit](https://cssbattle.dev/play/89) | [✔️]()* | 655.09 (208 chars) |  |
+| 090 | [Eclipse](https://cssbattle.dev/play/90) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2016%20-%20Aspect/090_eclipse.html) | 603.86 (487 chars) | 622.07 (304 chars) |
 | 091 | [Reflection](https://cssbattle.dev/play/91) | [❌]() | 0 | 0 |
 | 092 | [Squeeze](https://cssbattle.dev/play/92) | [❌]() | 0 | 0 |
 | 093 | [Great Wall](https://cssbattle.dev/play/93) | [❌]() | 0 | 0 |
@@ -247,7 +247,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | 110 | [Sunrays](https://cssbattle.dev/play/110) | [❌]() | 0 | 0 |
 | 111 | [Rain Drops](https://cssbattle.dev/play/111) | [❌]() | 0 | 0 |
 | 112 | [Chevron](https://cssbattle.dev/play/112) | [❌]() | 0 | 0 |
-| 113 | [Black Light](https://cssbattle.dev/play/113) | [❌]() | 0 | 0 |
+| 113 | [Black Light](https://cssbattle.dev/play/113) | [✔️]()* | 736.25 (113 chars) |  |
 | 114 | [Negative Box](https://cssbattle.dev/play/114) | [❌]() | 0 | 0 |
 | 115 | [Droplet](https://cssbattle.dev/play/115) | [❌]() | 0 | 0 |
 | 116 | [Headphones](https://cssbattle.dev/play/116) | [❌]() | 0 | 0 |
@@ -283,13 +283,13 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | No. | Challenge's Name | Solved |Score | High Score |
 |-----|------------------|--------|------|------------|
 | 133 | [Spiral](https://cssbattle.dev/play/133) | [❌]() | 0 | 0 |
-| 134 | [Wig](https://cssbattle.dev/play/134) | [❌]() | 0 | 0 |
+| 134 | [Wig](https://cssbattle.dev/play/134) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2022%20-%20Grid/134_wig.html) | 601.72 (572 chars) | 612.82 (361 chars) |
 | 135 | [Spikes](https://cssbattle.dev/play/135) | [❌]() | 0 | 0 |
-| 136 | [Alien Eye](https://cssbattle.dev/play/136) | [❌]() | 0 | 0 |
+| 136 | [Alien Eye](https://cssbattle.dev/play/136) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2022%20-%20Grid/136_alien-eye.html) | 604.28 (476 chars) | 645.10 (229 chars)0 |
 | 137 | [Elbow](https://cssbattle.dev/play/137) | [❌]() | 0 | 0 |
 | 138 | [Lotus](https://cssbattle.dev/play/138) | [❌]() | 0 | 0 |
-| 139 | [Lamp](https://cssbattle.dev/play/139) | [❌]() | 0 | 0 |
-| 140 | [Eclipse](https://cssbattle.dev/play/140) | [❌]() | 0 | 0 |
+| 139 | [Lamp](https://cssbattle.dev/play/139) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2022%20-%20Grid/139_lamp.html) | 612.34 (365 chars) | 645.10 (229 chars) |
+| 140 | [Eclipse](https://cssbattle.dev/play/140) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2022%20-%20Grid/140_eclipse.html) | 606.58 (431 chars) | 634.54 (257 chars) |
 
 
 ---        
