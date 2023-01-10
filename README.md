@@ -24,15 +24,15 @@ Repository for challenges from [https://cssbattle.dev/](https://cssbattle.dev/).
     <tbody>
         <tr>
             <td>Finished Targets</td>
-            <td>25/140 (17.86%)</td>
+            <td>26/140 (18.57%)</td>
         </tr>
         <tr>
             <td>Targets Played</td>
-            <td>26/140 (17.86%)</td>
+            <td>27/140 (19.28%)</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td>16,304.83</td>
+            <td>16,909.59</td>
         </tr>
     </tbody>
 </table>
@@ -52,7 +52,7 @@ Link to my profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattl
 | 005 | [Acid Rain](https://cssbattle.dev/play/5) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2001%20-%20Pilot%20Battle/005_acid-rain.html) | 608.92 (399 chars) | 621.04 (309 chars) |
 | 006 | [Missing Slice](https://cssbattle.dev/play/6) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2001%20-%20Pilot%20Battle/006_missing-slice.html) | 624.24 (295 chars) |  |
 | 007 | [Leafy Trail](https://cssbattle.dev/play/7) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2001%20-%20Pilot%20Battle/007_leafy-trail.html) | 609.81 (398 chars) | 658.89 (201 chars) |
-| 008 | [Forking Crazy](https://cssbattle.dev/play/8) | [❌]() |  |  |
+| 008 | [Forking Crazy](https://cssbattle.dev/play/8) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2001%20-%20Pilot%20Battle/008_forking-crazy.html) | 600.41 (721 chars) | 604.76 (465 chars) |
 | 009 | [Tesseract](https://cssbattle.dev/play/9) | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/master/Battle%2001%20-%20Pilot%20Battle/009_tesseract.html) | 602.79 (521 chars) |  |
 | 010 | [Cloaked Spirits](https://cssbattle.dev/play/10) | [❌]() |  |  |
 | 011 | [Eye of Sauron](https://cssbattle.dev/play/11) | [❌]() |  |  |
