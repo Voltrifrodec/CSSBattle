@@ -1,5 +1,5 @@
 # CSSBattle - Battle #1 - Pilot Battle
-Link: https://cssbattle.dev/play/1
+Link: https://cssbattle.dev/battle/1
 
 
 *Note*: There's 100% match on every target, so I skipped writing percentage match.
