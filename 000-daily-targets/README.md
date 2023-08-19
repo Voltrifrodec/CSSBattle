@@ -1,10 +1,10 @@
 # CSSBattle - Daily Targets
 
-- Dailies played: 5
-- Current streak: 3
-- Longest streak: 3
+- Dailies played: 6
+- Current streak: 4
+- Longest streak: 4
 - Average match percent: 100%
-- Average characters: 236
+- Average characters: 232
 
 
 ## Calendar
@@ -14,7 +14,7 @@ August 2023
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 31 |               | <sup> 1</sup> | <sup> 2</sup> | <sup> 3</sup> | <sup> 4</sup> | <sup> 5</sup> | <sup> 6</sup> |
 | 32 | <sup> 7</sup> | <sup> 8</sup> | <sup> 9</sup> | <sup>10</sup> | <sup>11</sup> | <sup>12</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-12_attempt-03.html) | <sup>13</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-13_attempt-03.html) |
-| 33 | <sup>14</sup> | <sup>15</sup> | <sup>16</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-16_attempt-03.html) | <sup>17</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-17_attempt-04.html) | <sup>18</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-18_attempt-03.html) | <sup>19</sup> | <sup>20</sup> |
+| 33 | <sup>14</sup> | <sup>15</sup> | <sup>16</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-16_attempt-03.html) | <sup>17</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-17_attempt-04.html) | <sup>18</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-18_attempt-03.html) | <sup>18</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-19_attempt-03.html) | <sup>20</sup> |
 | 34 | <sup>21</sup> | <sup>22</sup> | <sup>23</sup> | <sup>24</sup> | <sup>25</sup> | <sup>26</sup> | <sup>27</sup> |
 | 35 | <sup>28</sup> | <sup>29</sup> | <sup>30</sup> | <sup>31</sup> |
 
