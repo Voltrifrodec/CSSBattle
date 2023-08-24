@@ -12,7 +12,7 @@ Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.de
 | 004 | <img width=100 height=75 alt="Target 004 Image" src=https://cssbattle.dev/targets/4.png>    | [Ups n Downs](https://cssbattle.dev/play/4)         | [✔️](001-pilot-battle/004_ups-n-downs.md) |
 | 005 | <img width=100 height=75 alt="Target 005 Image" src=https://cssbattle.dev/targets/5.png>    | [Acid Rain](https://cssbattle.dev/play/5)           | [✔️](001-pilot-battle/005_acid-rain.md) |
 | 006 | <img width=100 height=75 alt="Target 006 Image" src=https://cssbattle.dev/targets/6.png>    | [Missing Slice](https://cssbattle.dev/play/6)       | [✔️](001-pilot-battle/006_missing-slice.md) |
-| 007 | <img width=100 height=75 alt="Target 007 Image" src=https://cssbattle.dev/targets/7.png>    | [Leafy Trail](https://cssbattle.dev/play/7)         | ❌ |
+| 007 | <img width=100 height=75 alt="Target 007 Image" src=https://cssbattle.dev/targets/7.png>    | [Leafy Trail](https://cssbattle.dev/play/7)         | [✔️](001-pilot-battle/007_leafy-trail.md) |
 | 008 | <img width=100 height=75 alt="Target 008 Image" src=https://cssbattle.dev/targets/8.png>    | [Forking Crazy](https://cssbattle.dev/play/8)       | ❌ |
 | 009 | <img width=100 height=75 alt="Target 009 Image" src=https://cssbattle.dev/targets/9.png>    | [Tesseract](https://cssbattle.dev/play/9)           | ❌ |
 | 010 | <img width=100 height=75 alt="Target 010 Image" src=https://cssbattle.dev/targets/10.png>   | [Cloaked Spirits](https://cssbattle.dev/play/10)    | ❌ |

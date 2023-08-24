@@ -11,7 +11,7 @@ Link: https://cssbattle.dev/battle/1
 | 004 | [Ups n Downs](https://cssbattle.dev/play/4)             | [604.89 {462}](/001-pilot-battle/src/html/004_ups-n-downs_attempt-01.html)        | 722.68 {124}<sup>1</sup>                                                         | ✔️ |
 | 005 | [Acid Rain](https://cssbattle.dev/play/5)               | [625.07 {288}](/001-pilot-battle/src/html/005_acid-rain_attempt-05.html)          | [653.03 {212}](/001-pilot-battle/src/html/005_acid-rain_attempt-06.html)         | ✔️ |
 | 006 | [Missing Slice](https://cssbattle.dev/play/6)           | [636.92 {250}](/001-pilot-battle/src/html/006_missing-slice_attempt-02.html)      | [660.60 {198}](/001-pilot-battle/src/html/006_missing-slice_attempt-03.html)     | ✔️ |
-| 007 | [Leafy Trail](https://cssbattle.dev/play/7)             |  |  | ❌ |
+| 007 | [Leafy Trail](https://cssbattle.dev/play/7)             | [635.20 {255}](/001-pilot-battle/src/html/007_leafy-trail_attempt-02.html)        | [698.53 {147}](/001-pilot-battle/src/html/007_leafy-trail_attempt-03.html)       | ✔️ |
 | 008 | [Forking Crazy](https://cssbattle.dev/play/8)           |  |  | ❌ |
 | 009 | [Tesseract](https://cssbattle.dev/play/9)               |  |  | ❌ |
 | 010 | [Cloaked Spirits](https://cssbattle.dev/play/10)        |  |  | ❌ |
