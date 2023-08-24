@@ -14,6 +14,6 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 623.81 {296}, 100% match | [Link to the solution]() |
-| 2 | 636.92 {250}, 100% match | [Link to the solution]() |
-| 3 | 660.60 {198}, 100% match | [Link to the solution]() |
+| 1 | 623.81 {296}, 100% match | [Link to the solution](/001-pilot-battle/src/html/006_missing-slice_attempt-01.html) |
+| 2 | 636.92 {250}, 100% match | [Link to the solution](/001-pilot-battle/src/html/006_missing-slice_attempt-02.html) |
+| 3 | 660.60 {198}, 100% match | [Link to the solution](/001-pilot-battle/src/html/006_missing-slice_attempt-03.html) |

@@ -14,6 +14,6 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 783.08 {082}, 100% match | [Link to the solution]() |
-| 2 | 834.56 {056}, 100% match | [Link to the solution]() |
-| 3 | 839.08 {054}, 100% match | [Link to the solution]() |
+| 1 | 783.08 {082}, 100% match | [Link to the solution](/001-pilot-battle/src/html/001_simply-square_attempt-01.html) |
+| 2 | 834.56 {056}, 100% match | [Link to the solution](/001-pilot-battle/src/html/001_simply-square_attempt-02.html) |
+| 3 | 839.08 {054}, 100% match | [Link to the solution](/001-pilot-battle/src/html/001_simply-square_attempt-03.html) |

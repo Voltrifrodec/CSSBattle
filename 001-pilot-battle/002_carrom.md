@@ -14,6 +14,6 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 621.44 {307}, 100% match | [Link to the solution]() |
-| 2 | 768.03 {091}, 100% match | [Link to the solution]() |
-| 3 | 776.23 {086}, 100% match | [Link to the solution]() |
+| 1 | 621.44 {307}, 100% match | [Link to the solution](/001-pilot-battle/src/html/002_carrom_attempt-01.html) |
+| 2 | 768.03 {091}, 100% match | [Link to the solution](/001-pilot-battle/src/html/002_carrom_attempt-02.html) |
+| 3 | 776.23 {086}, 100% match | [Link to the solution](/001-pilot-battle/src/html/002_carrom_attempt-03.html) |

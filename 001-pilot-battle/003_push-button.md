@@ -14,6 +14,6 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 607.37 {419}, 100% match | [Link to the solution]() |
-| 2 | 643.00 {234}, 100% match | [Link to the solution]() |
-| 3 | 683.80 {164}, 100% match | [Link to the solution]() |
+| 1 | 607.37 {419}, 100% match | [Link to the solution](/001-pilot-battle/src/html/003_push-button_attempt-01.html) |
+| 2 | 643.00 {234}, 100% match | [Link to the solution](/001-pilot-battle/src/html/003_push-button_attempt-02.html) |
+| 3 | 683.80 {164}, 100% match | [Link to the solution](/001-pilot-battle/src/html/003_push-button_attempt-03.html) |
