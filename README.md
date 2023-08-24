@@ -6,12 +6,12 @@ Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.de
 
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
-| 001 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/1.png>    | [Ups n Downs](https://cssbattle.dev/play/2)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/src/html/001-pilot-battle/001_simply-square.md) |
-| 002 | <img width=100 height=75 alt="Target 002 Image" src=https://cssbattle.dev/targets/2.png>    | [Carrom](https://cssbattle.dev/play/2)              | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/src/html/001-pilot-battle/002_carrom.md) |
-| 003 | <img width=100 height=75 alt="Target 003 Image" src=https://cssbattle.dev/targets/3.png>    | [Push Button](https://cssbattle.dev/play/3)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/src/html/001-pilot-battle/003_push-button.md) |
-| 004 | <img width=100 height=75 alt="Target 004 Image" src=https://cssbattle.dev/targets/4.png>    | [Ups n Downs](https://cssbattle.dev/play/4)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/src/html/001-pilot-battle/004_ups-n-downs.md) |
-| 005 | <img width=100 height=75 alt="Target 005 Image" src=https://cssbattle.dev/targets/5.png>    | [Acid Rain](https://cssbattle.dev/play/5)           | ❌ |
-| 006 | <img width=100 height=75 alt="Target 006 Image" src=https://cssbattle.dev/targets/6.png>    | [Missing Slice](https://cssbattle.dev/play/6)       | ❌ |
+| 001 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/1.png>    | [Ups n Downs](https://cssbattle.dev/play/2)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/001-pilot-battle/src/html/001_simply-square.md) |
+| 002 | <img width=100 height=75 alt="Target 002 Image" src=https://cssbattle.dev/targets/2.png>    | [Carrom](https://cssbattle.dev/play/2)              | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/001-pilot-battle/src/html/002_carrom.md) |
+| 003 | <img width=100 height=75 alt="Target 003 Image" src=https://cssbattle.dev/targets/3.png>    | [Push Button](https://cssbattle.dev/play/3)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/001-pilot-battle/src/html/003_push-button.md) |
+| 004 | <img width=100 height=75 alt="Target 004 Image" src=https://cssbattle.dev/targets/4.png>    | [Ups n Downs](https://cssbattle.dev/play/4)         | [✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/001-pilot-battle/src/html/004_ups-n-downs.md) |
+| 005 | <img width=100 height=75 alt="Target 005 Image" src=https://cssbattle.dev/targets/5.png>    | [Acid Rain](https://cssbattle.dev/play/5)           | [✔️](001-pilot-battle/005_acid-rain.md) |
+| 006 | <img width=100 height=75 alt="Target 006 Image" src=https://cssbattle.dev/targets/6.png>    | [Missing Slice](https://cssbattle.dev/play/6)       | [✔️](001-pilot-battle/006_missing-slice.md) |
 | 007 | <img width=100 height=75 alt="Target 007 Image" src=https://cssbattle.dev/targets/7.png>    | [Leafy Trail](https://cssbattle.dev/play/7)         | ❌ |
 | 008 | <img width=100 height=75 alt="Target 008 Image" src=https://cssbattle.dev/targets/8.png>    | [Forking Crazy](https://cssbattle.dev/play/8)       | ❌ |
 | 009 | <img width=100 height=75 alt="Target 009 Image" src=https://cssbattle.dev/targets/9.png>    | [Tesseract](https://cssbattle.dev/play/9)           | ❌ |
