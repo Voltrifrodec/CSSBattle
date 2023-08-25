@@ -10,6 +10,12 @@
 <body bgcolor=62374E style=border:dashed+53q#FDC57B;margin:0+50;clip-path:inset(53q+0>
 ```
 
+<br>
+
+```html
+<body bgcolor=62374E style=width:200;height:100;margin:50;border:solid+53q;border-image:conic-gradient(#FDC57B,#FDC57B)150>
+```
+
 
 ## Attempts
 | Attempt | Score | Link |
