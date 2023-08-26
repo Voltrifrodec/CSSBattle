@@ -32,3 +32,4 @@
 | 2 | 614.23 {350}, 100% match | [Link to the solution](daily-target_2023-08-25_attempt-02.html) |
 | 3 | 648.67 {221}, 100% match | [Link to the solution](daily-target_2023-08-25_attempt-03.html) |
 | 4 | 658.89 {201}, 100% match | [Link to the solution](daily-target_2023-08-25_attempt-04.html) |
+| 5 | 672.89 {179}, 100% match | [Link to the solution](daily-target_2023-08-25_attempt-05.html) |
