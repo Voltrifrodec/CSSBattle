@@ -1,10 +1,10 @@
 # CSSBattle - Daily Targets
 
-- Targets played: 17
-- Current streak: 15
-- Longest streak: 15
+- Targets played: 18
+- Current streak: 16
+- Longest streak: 16
 - Average match: 100.00%
-- Average characters: 202
+- Average characters: 206
 
 
 ## Calendar
@@ -16,7 +16,7 @@ August 2023
 | 32 | <sup> 7</sup>❌ | <sup> 8</sup>❌ | <sup> 9</sup>❌ | <sup>10</sup>❌ | <sup>11</sup>❌ | <sup>12</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-12_attempt-03.html) | <sup>13</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-13_attempt-03.html) |
 | 33 | <sup>14</sup>❌ | <sup>15</sup>❌ | <sup>16</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-16_attempt-03.html) | <sup>17</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-17_attempt-04.html) | <sup>18</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-18_attempt-03.html) | <sup>19</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-19_attempt-03.html) | <sup>20</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-20_attempt-04.html) |
 | 34 | <sup>21</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-21_attempt-02.html) | <sup>22</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-22_attempt-06.html) | <sup>23</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-23_attempt-03.html) | <sup>24</sup>[✔️](https://github.com/Voltrifrodec/CSSBattle/blob/main/000-daily-targets/daily-target_2023-08-24_attempt-05.html) | <sup>25</sup>[✔️](daily-target_2023-08-25.md) | <sup>26</sup>[✔️](daily-target_2023-08-26.md) | <sup>27</sup>[✔️](daily-target_2023-08-27.md) |
-| 35 | <sup>28</sup>[✔️](daily-target_2023-08-28.md) | <sup>29</sup>[✔️](daily-target_2023-08-29.md) | <sup>30</sup>[✔️](daily-target_2023-08-30.md) | <sup>31</sup> |
+| 35 | <sup>28</sup>[✔️](daily-target_2023-08-28.md) | <sup>29</sup>[✔️](daily-target_2023-08-29.md) | <sup>30</sup>[✔️](daily-target_2023-08-30.md) | <sup>31</sup>[✔️](daily-target_2023-08-31.md) |
 
 
 ## IDE Style
