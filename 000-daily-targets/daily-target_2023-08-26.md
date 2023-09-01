@@ -34,7 +34,7 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 606.83 {427}, 100% match | [Link to the solution](daily-target_2023-08-26_attempt-01.html) |
-| 2 | 627.47 {281}, 100% match | [Link to the solution](daily-target_2023-08-26_attempt-02.html) |
-| 3 | 677.64 {172}, 100% match | [Link to the solution](daily-target_2023-08-26_attempt-03.html) |
-| 4 | 695.76 {150}, 100% match | [Link to the solution](daily-target_2023-08-26_attempt-04.html) |
+| 1 | 606.83 {427}, 100% match | [Link to the solution](src/html/daily-target_2023-08-26_attempt-01.html) |
+| 2 | 627.47 {281}, 100% match | [Link to the solution](src/html/daily-target_2023-08-26_attempt-02.html) |
+| 3 | 677.64 {172}, 100% match | [Link to the solution](src/html/daily-target_2023-08-26_attempt-03.html) |
+| 4 | 695.76 {150}, 100% match | [Link to the solution](src/html/daily-target_2023-08-26_attempt-04.html) |
