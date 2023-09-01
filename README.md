@@ -2,6 +2,7 @@
 
 # CSSBattle
 Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.dev/).
+Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
 
 ## Battle #01 - Pilot Battle
 [Link to the battle](https://cssbattle.dev/battle/1)
@@ -20,6 +21,17 @@ Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.de
 | 010 | <img width=100 height=75 alt="Target 010 Image" src=https://cssbattle.dev/targets/10.png>   | [Cloaked Spirits](https://cssbattle.dev/play/10)    | [✔️](001-pilot-battle/010_cloaked-spirits.md) |
 | 011 | <img width=100 height=75 alt="Target 011 Image" src=https://cssbattle.dev/targets/11.png>   | [Eye of Sauron](https://cssbattle.dev/play/11)      | [✔️](001-pilot-battle/011_eye-of-sauron.md) |
 | 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | ❌ |
+
+
+## Battle #26 - Initial
+[Link to the battle](https://cssbattle.dev/battle/26)
+My highest place in the overall leaderboard: 31 (2023-09-01)
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 159 | <img width=100 height=75 alt="Target 159 Image" src=https://cssbattle.dev/targets/159.png>  | [Portal](https://cssbattle.dev/play/159)            | [✔️](026-initial/159_portal.md)     |
+| 160 | <img width=100 height=75 alt="Target 160 Image" src=https://cssbattle.dev/targets/160.png>  | [Portal](https://cssbattle.dev/play/160)            | [✔️](026-initial/160_donut.md)      |
+| 161 | <img width=100 height=75 alt="Target 161 Image" src=https://cssbattle.dev/targets/161.png>  | [Portal](https://cssbattle.dev/play/161)            | [✔️](026-initial/161_converge.md)   |
+| 162 | <img width=100 height=75 alt="Target 162 Image" src=https://cssbattle.dev/targets/162.png>  | [Portal](https://cssbattle.dev/play/162)            | [✔️](026-initial/162_chevron.md)    |
 
 
 ## IDE Style
