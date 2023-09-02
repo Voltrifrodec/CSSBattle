@@ -1,10 +1,10 @@
 # CSSBattle - Daily Targets
 
-- Targets played: 19
-- Current streak: 17
-- Longest streak: 17
+- Targets played: 20
+- Current streak: 19
+- Longest streak: 19
 - Average match: 100.00%
-- Average characters: 206
+- Average characters: 220
 
 
 ## Calendar
@@ -21,7 +21,7 @@ August 2023
 September 2023
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 35 |  ╱ |  ╱ |  ╱ |  ╱ |  1<sub>[✔️](daily-target_2023-09-01.md)</sub> |  2 |  3 |
+| 35 |  ╱ |  ╱ |  ╱ |  ╱ |  1<sub>[✔️](daily-target_2023-09-01.md)</sub> |  2<sub>[✔️](daily-target_2023-09-02.md)</sub> |  3 |
 | 36 |  4 |  5 |  6 |  7 |  8 |  9 | 10 |
 | 37 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 38 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
