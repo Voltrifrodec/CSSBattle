@@ -21,7 +21,7 @@ August 2023
 September 2023
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 35 |  ╱ |  ╱ |  ╱ |  ╱ |  1<sub>[✔️](daily-target_2023-09-01.md)</sub> |  2<sub>[✔️](daily-target_2023-09-02.md)</sub> |  3 |
+| 35 |  ╱ |  ╱ |  ╱ |  ╱ |  1<sub>[✔️](daily-target_2023-09-01.md)</sub> |  2<sub>[✔️](daily-target_2023-09-02.md)</sub> |  3<sub>[✔️](daily-target_2023-09-03.md)</sub> |
 | 36 |  4 |  5 |  6 |  7 |  8 |  9 | 10 |
 | 37 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 38 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
