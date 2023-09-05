@@ -121,6 +121,53 @@
             <td>692.17 {154}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-03_attempt-05.html">Link to the solution</a></td> 
         </tr>
+        <!-- Daily Target: 04/09/2023 -->
+        <tr>
+            <td>013</td>
+            <td rowspan=3>
+                <img src="src/images/targets/target_2023-09-04.png" width=100>
+                <br>
+                <a href="https://cssbattle.dev/play/eOEg01X9rCpMQnXpIIXs" style="font-size:small">Link to the Target</a>
+            </td>
+            <td>04/09/2023</td>
+            <td>1</td>
+            <td>604.04 {440}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-04_attempt-01.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>014</td>
+            <td>04/09/2023</td>
+            <td>2</td>
+            <td>607.52 {417}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-04_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>015</td>
+            <td>04/09/2023</td>
+            <td>2</td>
+            <td>620.25 {313}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-04_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <!-- Daily Target: 04/09/2023 -->
+        <tr>
+            <td>013</td>
+            <td rowspan=2>
+                <img src="src/images/targets/target_2023-09-05.png" width=100>
+                <br>
+                <a href="https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM" style="font-size:small">Link to the Target</a>
+            </td>
+            <td>04/09/2023</td>
+            <td>1</td>
+            <td>651.05 {216}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-05_attempt-01.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>014</td>
+            <td>04/09/2023</td>
+            <td>2</td>
+            <td>714.77 {131}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-05_attempt-02.html">Link to the solution</a></td>
+        </tr>
     </tbody>
 </table>
 
