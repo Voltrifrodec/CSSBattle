@@ -148,25 +148,52 @@
             <td>620.25 {313}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-04_attempt-02.html">Link to the solution</a></td>
         </tr>
-        <!-- Daily Target: 04/09/2023 -->
+        <!-- Daily Target: 05/09/2023 -->
         <tr>
-            <td>013</td>
+            <td>016</td>
             <td rowspan=2>
                 <img src="src/images/targets/target_2023-09-05.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM" style="font-size:small">Link to the Target</a>
             </td>
-            <td>04/09/2023</td>
+            <td>05/09/2023</td>
             <td>1</td>
             <td>651.05 {216}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-05_attempt-01.html">Link to the solution</a></td>
         </tr>
         <tr>
-            <td>014</td>
-            <td>04/09/2023</td>
+            <td>017</td>
+            <td>05/09/2023</td>
             <td>2</td>
             <td>714.77 {131}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-05_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <!-- Daily Target: 05/09/2023 -->
+        <tr>
+            <td>018</td>
+            <td rowspan=3>
+                <img src="src/images/targets/target_2023-09-06.png" width=100>
+                <br>
+                <a href="https://cssbattle.dev/play/tjqT6GqcgdL7fWFqYnqK" style="font-size:small">Link to the Target</a>
+            </td>
+            <td>06/09/2023</td>
+            <td>1</td>
+            <td>604.45 {472}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-06_attempt-01.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>019</td>
+            <td>06/09/2023</td>
+            <td>2</td>
+            <td>630.51 {270}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-06_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>020</td>
+            <td>06/09/2023</td>
+            <td>3</td>
+            <td>699.48 {146}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-06_attempt-03.html">Link to the solution</a></td>
         </tr>
     </tbody>
 </table>
