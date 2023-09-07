@@ -20,7 +20,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 009 | <img width=100 height=75 alt="Target 009 Image" src=https://cssbattle.dev/targets/9.png>    | [Tesseract](https://cssbattle.dev/play/9)           | [✔️](001-pilot-battle/009_tesseract.md) |
 | 010 | <img width=100 height=75 alt="Target 010 Image" src=https://cssbattle.dev/targets/10.png>   | [Cloaked Spirits](https://cssbattle.dev/play/10)    | [✔️](001-pilot-battle/010_cloaked-spirits.md) |
 | 011 | <img width=100 height=75 alt="Target 011 Image" src=https://cssbattle.dev/targets/11.png>   | [Eye of Sauron](https://cssbattle.dev/play/11)      | [✔️](001-pilot-battle/011_eye-of-sauron.md) |
-| 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | ❌ |
+| 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | [✔️](001-pilot-battle/012_wiggly-moustache.md) |
 
 
 ## Battle #26 - Initial
