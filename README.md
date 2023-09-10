@@ -28,10 +28,12 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 My highest place in the overall leaderboard: 31 (2023-09-01)
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
-| 159 | <img width=100 height=75 alt="Target 159 Image" src=https://cssbattle.dev/targets/159.png>  | [Portal](https://cssbattle.dev/play/159)            | [✔️](026-initial/159_portal.md)     |
-| 160 | <img width=100 height=75 alt="Target 160 Image" src=https://cssbattle.dev/targets/160.png>  | [Portal](https://cssbattle.dev/play/160)            | [✔️](026-initial/160_donut.md)      |
-| 161 | <img width=100 height=75 alt="Target 161 Image" src=https://cssbattle.dev/targets/161.png>  | [Portal](https://cssbattle.dev/play/161)            | [✔️](026-initial/161_converge.md)   |
-| 162 | <img width=100 height=75 alt="Target 162 Image" src=https://cssbattle.dev/targets/162.png>  | [Portal](https://cssbattle.dev/play/162)            | [✔️](026-initial/162_chevron.md)    |
+| 159 | <img width=100 height=75 alt="Target 159 Image" src=https://cssbattle.dev/targets/159.png>  | [Portal](https://cssbattle.dev/play/159)            | [✔️](026-initial/159_portal.md)             |
+| 160 | <img width=100 height=75 alt="Target 160 Image" src=https://cssbattle.dev/targets/160.png>  | [Portal](https://cssbattle.dev/play/160)            | [✔️](026-initial/160_donut.md)              |
+| 161 | <img width=100 height=75 alt="Target 161 Image" src=https://cssbattle.dev/targets/161.png>  | [Portal](https://cssbattle.dev/play/161)            | [✔️](026-initial/161_converge.md)           |
+| 162 | <img width=100 height=75 alt="Target 162 Image" src=https://cssbattle.dev/targets/162.png>  | [Portal](https://cssbattle.dev/play/162)            | [✔️](026-initial/162_chevron.md)            |
+| 163 | <img width=100 height=75 alt="Target 163 Image" src=https://cssbattle.dev/targets/163.png>  | [Portal](https://cssbattle.dev/play/163)            | [✔️](026-initial/163_missing-piece.md)      |
+| 164 | <img width=100 height=75 alt="Target 164 Image" src=https://cssbattle.dev/targets/164.png>  | [Portal](https://cssbattle.dev/play/164)            | [✔️](026-initial/164_rangoli.md)            |
 
 
 ## IDE Style
