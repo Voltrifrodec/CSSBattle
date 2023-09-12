@@ -9,7 +9,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
-| 001 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/1.png>    | [Ups n Downs](https://cssbattle.dev/play/2)         | [✔️](001-pilot-battle/001_simply-square.md) |
+| 001 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/1.png>    | [Ups n Downs](https://cssbattle.dev/play/1)         | [✔️](001-pilot-battle/001_simply-square.md) |
 | 002 | <img width=100 height=75 alt="Target 002 Image" src=https://cssbattle.dev/targets/2.png>    | [Carrom](https://cssbattle.dev/play/2)              | [✔️](001-pilot-battle/002_carrom.md) |
 | 003 | <img width=100 height=75 alt="Target 003 Image" src=https://cssbattle.dev/targets/3.png>    | [Push Button](https://cssbattle.dev/play/3)         | [✔️](001-pilot-battle/003_push-button.md) |
 | 004 | <img width=100 height=75 alt="Target 004 Image" src=https://cssbattle.dev/targets/4.png>    | [Ups n Downs](https://cssbattle.dev/play/4)         | [✔️](001-pilot-battle/004_ups-n-downs.md) |
@@ -21,6 +21,15 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 010 | <img width=100 height=75 alt="Target 010 Image" src=https://cssbattle.dev/targets/10.png>   | [Cloaked Spirits](https://cssbattle.dev/play/10)    | [✔️](001-pilot-battle/010_cloaked-spirits.md) |
 | 011 | <img width=100 height=75 alt="Target 011 Image" src=https://cssbattle.dev/targets/11.png>   | [Eye of Sauron](https://cssbattle.dev/play/11)      | [✔️](001-pilot-battle/011_eye-of-sauron.md) |
 | 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | [✔️](001-pilot-battle/012_wiggly-moustache.md) |
+
+
+## Battle #08 - Transition
+[Link to the battle](https://cssbattle.dev/battle/8)
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 042 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/42.png>    | [Baby](https://cssbattle.dev/play/42)            | [✔️](008-transition/042_baby.md)      |
+| 043 | <img width=100 height=75 alt="Target 002 Image" src=https://cssbattle.dev/targets/43.png>    | [Wrench](https://cssbattle.dev/play/43)          | [✔️](008-transition/043_wrench.md)    |
+| 044 | <img width=100 height=75 alt="Target 003 Image" src=https://cssbattle.dev/targets/44.png>    | [Stripes](https://cssbattle.dev/play/44)         | [✔️](008-transition/044_stripes.md)   |
 
 
 ## Battle #26 - Initial
