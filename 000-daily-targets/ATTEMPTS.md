@@ -420,7 +420,7 @@
         </tr>
         <!-- Daily Target: 15/09/2023 -->
         <tr>
-            <td>040</td>
+            <td>043</td>
             <td rowspan=3>
                 <img src="src/images/targets/target_2023-09-15.png" width=100>
                 <br>
@@ -432,18 +432,45 @@
             <td><a href="src/html/daily-target_2023-09-15_attempt-01.html">Link to the solution</a></td>
         </tr>
         <tr>
-            <td>041</td>
+            <td>044</td>
             <td>15/09/2023</td>
             <td>2</td>
             <td>740.20 {110}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-15_attempt-02.html">Link to the solution</a></td>
         </tr>
         <tr>
-            <td>042</td>
+            <td>045</td>
             <td>15/09/2023</td>
             <td>3</td>
             <td>786.60 {080}, 100.0% match</td>
             <td><a href="src/html/daily-target_2023-09-15_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <!-- Daily Target: 16/09/2023 -->
+        <tr>
+            <td>046</td>
+            <td rowspan=3>
+                <img src="src/images/targets/target_2023-09-16.png" width=100>
+                <br>
+                <a href="https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6" style="font-size:small">Link to the Target</a>
+            </td>
+            <td>16/09/2023</td>
+            <td>1</td>
+            <td>614.65 {347}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-16_attempt-01.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>047</td>
+            <td>16/09/2023</td>
+            <td>2</td>
+            <td>624.98 {291}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-16_attempt-02.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>048</td>
+            <td>16/09/2023</td>
+            <td>3</td>
+            <td>666.03 {189}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-16_attempt-02.html">Link to the solution</a></td>
         </tr>
     </tbody>
 </table>
