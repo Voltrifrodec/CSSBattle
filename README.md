@@ -43,6 +43,8 @@ My highest place in the overall leaderboard: 31 (2023-09-01)
 | 162 | <img width=100 height=75 alt="Target 162 Image" src=https://cssbattle.dev/targets/162.png>  | [Upwards](https://cssbattle.dev/play/162)         | [✔️](026-initial/162_chevron.md)            |
 | 163 | <img width=100 height=75 alt="Target 163 Image" src=https://cssbattle.dev/targets/163.png>  | [Missing Piece](https://cssbattle.dev/play/163)   | [✔️](026-initial/163_missing-piece.md)      |
 | 164 | <img width=100 height=75 alt="Target 164 Image" src=https://cssbattle.dev/targets/164.png>  | [Rangoli](https://cssbattle.dev/play/164)         | [✔️](026-initial/164_rangoli.md)            |
+| 165 | <img width=100 height=75 alt="Target 165 Image" src=https://cssbattle.dev/targets/165.png>  | [Pyramid](https://cssbattle.dev/play/165)         | [✔️](026-initial/165_pyramid.md)            |
+| 166 | <img width=100 height=75 alt="Target 166 Image" src=https://cssbattle.dev/targets/166.png>  | [Flow](https://cssbattle.dev/play/166)            | [✔️](026-initial/166_flow.md)               |
 
 
 ## IDE Style
