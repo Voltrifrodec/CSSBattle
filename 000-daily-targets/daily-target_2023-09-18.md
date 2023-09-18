@@ -28,5 +28,7 @@
 | 1 | 597.87 {232}, 99.9% match | [Link to the solution](src/html/daily-target_2023-09-18_attempt-01.html) |
 | 2 | 597.87 {164}, 99.9% match | [Link to the solution](src/html/daily-target_2023-09-18_attempt-02.html) |
 
-### Notes
+<br>
+
+## Notes
 This target was pretty much impossible to make with 100.0% match, due to the problems with background gradient. So, yep, this is the day when I lost my lovely 100.0% average match. :[
