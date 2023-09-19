@@ -519,6 +519,26 @@
             <td>597.87 {164}, 99.9% match</td>
             <td><a href="src/html/daily-target_2023-09-18_attempt-02.html">Link to the solution</a></td>
         </tr>
+        <!-- Daily Target: 19/09/2023 -->
+        <tr>
+            <td>054</td>
+            <td rowspan=2>
+                <img src="src/images/targets/target_2023-09-19.png" width=100>
+                <br>
+                <a href="https://cssbattle.dev/play/HEKXB9imd5fM8LjO7MUM" style="font-size:small">Link to the Target</a>
+            </td>
+            <td>19/09/2023</td>
+            <td>1</td>
+            <td>621.24 {308}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-19_attempt-01.html">Link to the solution</a></td>
+        </tr>
+        <tr>
+            <td>055</td>
+            <td>19/09/2023</td>
+            <td>2</td>
+            <td>647.30 {224}, 100.0% match</td>
+            <td><a href="src/html/daily-target_2023-09-19_attempt-02.html">Link to the solution</a></td>
+        </tr>
     </tbody>
 </table>
 
