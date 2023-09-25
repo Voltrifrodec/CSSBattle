@@ -34,8 +34,10 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 
 ## Battle #26 - Initial
 [Link to the battle](https://cssbattle.dev/battle/26)
-My highest place in the overall leaderboard: 31 (2023-09-01)
-Finish rank: 56
+
+- My highest place in the overall leaderboard: 31 (2023-09-01)
+- Finish rank: 56
+
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
 | 159 | <img width=100 height=75 alt="Target 159 Image" src=https://cssbattle.dev/targets/159.png>  | [Portal](https://cssbattle.dev/play/159)          | [✔️](026-initial/159_portal.md)             |
@@ -50,8 +52,9 @@ Finish rank: 56
 
 ## Battle #27 - Relative
 [Link to the battle](https://cssbattle.dev/battle/27)
-My highest place in the overall leaderboard: 111 (2023-09-01)
-Finish rank: ---
+- My highest place in the overall leaderboard: 111 (2023-09-25)
+- Finish rank: ---
+
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
 | 167 | <img width=100 height=75 alt="Target 167 Image" src=https://cssbattle.dev/targets/167.png>  | [React India](https://cssbattle.dev/play/167)     | [✔️](027-relative/167_react-india.md)     |
