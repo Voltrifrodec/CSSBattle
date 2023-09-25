@@ -35,6 +35,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 ## Battle #26 - Initial
 [Link to the battle](https://cssbattle.dev/battle/26)
 My highest place in the overall leaderboard: 31 (2023-09-01)
+Finish rank: 56
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
 | 159 | <img width=100 height=75 alt="Target 159 Image" src=https://cssbattle.dev/targets/159.png>  | [Portal](https://cssbattle.dev/play/159)          | [✔️](026-initial/159_portal.md)             |
@@ -46,6 +47,17 @@ My highest place in the overall leaderboard: 31 (2023-09-01)
 | 165 | <img width=100 height=75 alt="Target 165 Image" src=https://cssbattle.dev/targets/165.png>  | [Pyramid](https://cssbattle.dev/play/165)         | [✔️](026-initial/165_pyramid.md)            |
 | 166 | <img width=100 height=75 alt="Target 166 Image" src=https://cssbattle.dev/targets/166.png>  | [Flow](https://cssbattle.dev/play/166)            | [✔️](026-initial/166_flow.md)               |
 
+
+## Battle #27 - Relative
+[Link to the battle](https://cssbattle.dev/battle/27)
+My highest place in the overall leaderboard: 111 (2023-09-01)
+Finish rank: ---
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 167 | <img width=100 height=75 alt="Target 167 Image" src=https://cssbattle.dev/targets/167.png>  | [React India](https://cssbattle.dev/play/167)     | [✔️](027-relative/167_react-india.md)     |
+| 168 | <img width=100 height=75 alt="Target 168 Image" src=https://cssbattle.dev/targets/168.png>  | [Carpet](https://cssbattle.dev/play/168)          | [✔️](027-relative/168_carpet.md)          |
+| 169 | <img width=100 height=75 alt="Target 169 Image" src=https://cssbattle.dev/targets/169.png>  | [Abstract Plate](https://cssbattle.dev/play/169)  | ❌                                        |
+| 170 | <img width=100 height=75 alt="Target 170 Image" src=https://cssbattle.dev/targets/170.png>  | [Party Hat](https://cssbattle.dev/play/170)       | ❌                                        |
 
 ## IDE Style
 <style>
