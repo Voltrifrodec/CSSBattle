@@ -1,8 +1,8 @@
 # CSSBattle - Daily Targets
 
-- Targets played: 44
-- Current streak: 42
-- Longest streak: 42
+- Targets played: 45
+- Current streak: 43
+- Longest streak: 43
 - Average match: 100.00%
 - Average characters: 204
 
@@ -15,7 +15,7 @@ September 2023
 | 36 |  4<sub>[✔️](daily-target_2023-09-04.md)</sub> |  5<sub>[✔️](daily-target_2023-09-05.md)</sub> |  6<sub>[✔️](daily-target_2023-09-06.md)</sub> |  7<sub>[✔️](daily-target_2023-09-07.md)</sub> |  8<sub>[✔️](daily-target_2023-09-08.md)</sub> |  9<sub>[✔️](daily-target_2023-09-09.md)</sub> | 10<sub>[✔️](daily-target_2023-09-10.md)</sub> |
 | 37 | 11<sub>[✔️](daily-target_2023-09-11.md)</sub> | 12<sub>[✔️](daily-target_2023-09-12.md)</sub> | 13<sub>[✔️](daily-target_2023-09-13.md)</sub> | 14<sub>[✔️](daily-target_2023-09-14.md)</sub> | 15<sub>[✔️](daily-target_2023-09-15.md)</sub> | 16<sub>[✔️](daily-target_2023-09-16.md)</sub> | 17<sub>[✔️](daily-target_2023-09-17.md)</sub> |
 | 38 | 18<sub>[✔️](daily-target_2023-09-18.md)</sub> | 19<sub>[✔️](daily-target_2023-09-19.md)</sub> | 20<sub>[✔️](daily-target_2023-09-20.md)</sub> | 21<sub>[✔️](daily-target_2023-09-21.md)</sub> | 22<sub>[✔️](daily-target_2023-09-22.md)</sub> | 23<sub>[✔️](daily-target_2023-09-23.md)</sub> | 24<sub>[✔️](daily-target_2023-09-24.md)</sub> |
-| 39 | 25<sub>[✔️](daily-target_2023-09-25.md)</sub> | 26<sub>[✔️](daily-target_2023-09-26.md)</sub> | 27 | 28 | 29 | 30 | ➖ |
+| 39 | 25<sub>[✔️](daily-target_2023-09-25.md)</sub> | 26<sub>[✔️](daily-target_2023-09-26.md)</sub> | 27<sub>[✔️](daily-target_2023-09-27.md)</sub> | 28 | 29 | 30 | ➖ |
 
 August 2023
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
