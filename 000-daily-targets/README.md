@@ -8,7 +8,12 @@
 
 
 ## Calendar
-September 2023
+
+<details open>
+    <summary>
+        <h3>September 2023</h3>
+    </summary>
+
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 35 | ➖                                                           | ➖                                                            | ➖                                                            | ➖                                                            |  1<sub>[✔️](src/markdown/daily-target_2023-09-01.md)</sub> |  2<sub>[✔️](src/markdown/daily-target_2023-09-02.md)</sub> |  3<sub>[✔️](src/markdown/daily-target_2023-09-03.md)</sub> |
@@ -17,8 +22,13 @@ September 2023
 | 38 | 18<sub>[✔️](src/markdown/daily-target_2023-09-18.md)</sub>   | 19<sub>[✔️](src/markdown/daily-target_2023-09-19.md)</sub>    | 20<sub>[✔️](src/markdown/daily-target_2023-09-20.md)</sub>    | 21<sub>[✔️](src/markdown/daily-target_2023-09-21.md)</sub>    | 22<sub>[✔️](src/markdown/daily-target_2023-09-22.md)</sub> | 23<sub>[✔️](src/markdown/daily-target_2023-09-23.md)</sub> | 24<sub>[✔️](src/markdown/daily-target_2023-09-24.md)</sub> |
 | 39 | 25<sub>[✔️](src/markdown/daily-target_2023-09-25.md)</sub>   | 26<sub>[✔️](src/markdown/daily-target_2023-09-26.md)</sub>    | 27<sub>[✔️](src/markdown/daily-target_2023-09-27.md)</sub>    | 28<sub>[✔️](src/markdown/daily-target_2023-09-28.md)</sub>    | 29<sub>[✔️](src/markdown/daily-target_2023-09-29.md)</sub> | 30 | ➖ |
 
+</details>
 
-<detail close><summary><h3>August 2023</h3></summary>
+<details close>
+    <summary>
+        <h3>August 2023</h3>
+    </summary>
+
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 31 | ➖                                                           | <sup> 1</sup>❌                                            | <sup> 2</sup>❌                                              | <sup> 3</sup>❌                                               | <sup> 4</sup>❌                                               | <sup> 5</sup>❌                                               | <sup> 6</sup>❌                                            |
@@ -26,14 +36,28 @@ September 2023
 | 33 | <sup>14</sup>❌                                              | <sup>15</sup>❌                                            | <sup>16</sup>[✔️](src/markdown/daily-target_2023-08-16.md)   | <sup>17</sup>[✔️](src/markdown/daily-target_2023-08-17.md)    | <sup>18</sup>[✔️](src/markdown/daily-target_2023-08-18.md)    | <sup>19</sup>[✔️](src/markdown/daily-target_2023-08-19.md)    | <sup>20</sup>[✔️](src/markdown/daily-target_2023-08-20.md) |
 | 34 | <sup>21</sup>[✔️](src/markdown/daily-target_2023-08-21.md)   | <sup>22</sup>[✔️](src/markdown/daily-target_2023-08-22.md) | <sup>23</sup>[✔️](src/markdown/daily-target_2023-08-23.md)   | <sup>24</sup>[✔️](src/markdown/daily-target_2023-08-24.md)    | <sup>25</sup>[✔️](src/markdown/daily-target_2023-08-25.md)    | <sup>26</sup>[✔️](src/markdown/daily-target_2023-08-26.md)    | <sup>27</sup>[✔️](src/markdown/daily-target_2023-08-27.md) |
 | 35 | <sup>28</sup>[✔️](src/markdown/daily-target_2023-08-28.md)   | <sup>29</sup>[✔️](src/markdown/daily-target_2023-08-29.md) | <sup>30</sup>[✔️](src/markdown/daily-target_2023-08-30.md)   | <sup>31</sup>[✔️](src/markdown/daily-target_2023-08-31.md)    | ➖                                            | ➖                                            | ➖                                            |
-</detail>
 
-## IDE Style
+</details>
+
+<hr size=2>
+
+<details close>
+    <summary>
+        <h2>IDE Style</h2>
+    </summary>
+
 <style>
     * {
         background: #000;
         color: #fff;
         font-family: monospace;
+    }
+    details {
+        margin-bottom: 2.5%;
+    }
+    details > summary > h3, details > summary > h2 {
+        color: #0ee !important;
+        display: inline;
     }
     h1, h2, h3, h4, h5, h6, tr > td:first-of-type, th {
         color: #0ee !important;
@@ -41,10 +65,13 @@ September 2023
     tr > td:first-child {
         color: #ee0 !important;
     }
-    h2, h3 {
+    *:not(details > summary) > h2, *:not(details > summary) > h3 {
         border-top: 2px solid #fff;
         padding-top: 2%;
         margin-top: 5% !important;
+    }
+    *:not(details > summary) > table {
+        margin-bottom: 5%;
     }
     tr > td {
         vertical-align: middle !important; 
@@ -53,3 +80,5 @@ September 2023
         font-family: 'Times New Roman', monospace;
     }
 </style>
+
+</details>
