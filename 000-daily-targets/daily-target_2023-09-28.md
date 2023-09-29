@@ -30,4 +30,4 @@
 |:-:|:-:|:-:|
 | 1 | 635.54 {254}, 100.0% match | [Link to the solution](src/html/daily-target_2023-09-28_attempt-01.html) |
 | 2 | 640.61 {240}, 100.0% match | [Link to the solution](src/html/daily-target_2023-09-28_attempt-02.html) |
-| 2 | 686.23 {161}, 100.0% match | [Link to the solution](src/html/daily-target_2023-09-28_attempt-03.html) |
+| 3 | 686.23 {161}, 100.0% match | [Link to the solution](src/html/daily-target_2023-09-28_attempt-03.html) |
