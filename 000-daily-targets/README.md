@@ -7,14 +7,14 @@
 - Average characters: 203 -->
 
 <!-- I'm so sorry for you to see this... -->
-<table style="width:714px!important; margin: -1px auto;">
+<table>
     <thead>
         <tr>
-            <th style="width:714px!important" colspan=2>My stats</th>
+            <th width="1024px" colspan=2>My stats</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr width="1000px">
             <td>Targets played</td>
             <td>47</td>
         </tr>
@@ -178,3 +178,8 @@
 </style>
 
 </details>
+<style>
+    table {
+        width:100%;
+    }
+</style>
