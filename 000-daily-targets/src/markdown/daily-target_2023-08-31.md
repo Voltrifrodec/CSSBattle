@@ -2,7 +2,7 @@
 
 [Link to the target](https://cssbattle.dev/play/rghvs0HJU07zmlIENJr4)
 
-![img](src/images/daily-target_2023-08-31.png)
+![img](../images/target-solution/daily-target_2023-08-31.png)
 
 <br>
 
@@ -44,6 +44,6 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 604.71 {466}, 100% match | [Link to the solution](src/html/daily-target_2023-08-31_attempt-01.html) |
-| 2 | 607.44 {418}, 100% match | [Link to the solution](src/html/daily-target_2023-08-31_attempt-02.html) |
-| 3 | 630.22 {271}, 100% match | [Link to the solution](src/html/daily-target_2023-08-31_attempt-03.html) |
+| 1 | 604.71 {466}, 100% match | [Link to the solution](../html/daily-target_2023-08-31_attempt-01.html) |
+| 2 | 607.44 {418}, 100% match | [Link to the solution](../html/daily-target_2023-08-31_attempt-02.html) |
+| 3 | 630.22 {271}, 100% match | [Link to the solution](../html/daily-target_2023-08-31_attempt-03.html) |

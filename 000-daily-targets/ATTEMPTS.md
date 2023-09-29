@@ -23,7 +23,7 @@
         <tr>
             <td>001</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-08-12.png" width=100>
+                <img src="src/images/target-preview/target_2023-08-12.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/ZfMY6fK7bR97CcaverAc" style="font-size:small">Link to the Target</a>
             </td>
@@ -50,7 +50,7 @@
         <tr>
             <td>004</td>
             <td rowspan=4>
-                <img src="src/images/targets/target_2023-09-02.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-02.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/eg4M4tnoJCWcAEhEBP8x" style="font-size:small">Link to the Target</a>
             </td>
@@ -84,7 +84,7 @@
         <tr>
             <td>008</td>
             <td rowspan=5>
-                <img src="src/images/targets/target_2023-09-03.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-03.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/hdSQpbCiq57pJgkhBa7c" style="font-size:small">Link to the Target</a>
             </td>
@@ -125,7 +125,7 @@
         <tr>
             <td>013</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-04.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-04.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/eOEg01X9rCpMQnXpIIXs" style="font-size:small">Link to the Target</a>
             </td>
@@ -152,7 +152,7 @@
         <tr>
             <td>016</td>
             <td rowspan=2>
-                <img src="src/images/targets/target_2023-09-05.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-05.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM" style="font-size:small">Link to the Target</a>
             </td>
@@ -172,7 +172,7 @@
         <tr>
             <td>018</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-06.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-06.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/tjqT6GqcgdL7fWFqYnqK" style="font-size:small">Link to the Target</a>
             </td>
@@ -199,7 +199,7 @@
         <tr>
             <td>021</td>
             <td rowspan=4>
-                <img src="src/images/targets/target_2023-09-07.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-07.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/VAKgNC1jyPfutbnApSg4" style="font-size:small">Link to the Target</a>
             </td>
@@ -233,7 +233,7 @@
         <tr>
             <td>025</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-08.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-08.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/fvELCOWUKXuKyHSsnZZk" style="font-size:small">Link to the Target</a>
             </td>
@@ -260,7 +260,7 @@
         <tr>
             <td>028</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-09.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-09.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/fvELCOWUKXuKyHSsnZZk" style="font-size:small">Link to the Target</a>
             </td>
@@ -287,7 +287,7 @@
         <tr>
             <td>028</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-10.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-10.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/Xt3tUGrdPbbhpYBBYQPZ" style="font-size:small">Link to the Target</a>
             </td>
@@ -314,7 +314,7 @@
         <tr>
             <td>031</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-11.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-11.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA" style="font-size:small">Link to the Target</a>
             </td>
@@ -341,7 +341,7 @@
         <tr>
             <td>034</td>
             <td rowspan=4>
-                <img src="src/images/targets/target_2023-09-12.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-12.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/97lYDZ08hstqexDs9HeT" style="font-size:small">Link to the Target</a>
             </td>
@@ -375,7 +375,7 @@
         <tr>
             <td>038</td>
             <td rowspan=2>
-                <img src="src/images/targets/target_2023-09-13.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-13.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/gK8G0EfMHBHjUEe8qHfr" style="font-size:small">Link to the Target</a>
             </td>
@@ -395,7 +395,7 @@
         <tr>
             <td>040</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-14.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-14.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/aQ8SxNueIjKJHGHOHhIU" style="font-size:small">Link to the Target</a>
             </td>
@@ -422,7 +422,7 @@
         <tr>
             <td>043</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-15.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-15.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6" style="font-size:small">Link to the Target</a>
             </td>
@@ -449,7 +449,7 @@
         <tr>
             <td>046</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-16.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-16.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6" style="font-size:small">Link to the Target</a>
             </td>
@@ -476,7 +476,7 @@
         <tr>
             <td>049</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-17.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-17.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/A8ByjRBQp6gHChFurPm6" style="font-size:small">Link to the Target</a>
             </td>
@@ -503,7 +503,7 @@
         <tr>
             <td>052</td>
             <td rowspan=2>
-                <img src="src/images/targets/target_2023-09-18.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-18.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/x0L7nQMy9Cmd959zZbEW" style="font-size:small">Link to the Target</a>
             </td>
@@ -523,7 +523,7 @@
         <tr>
             <td>054</td>
             <td rowspan=2>
-                <img src="src/images/targets/target_2023-09-19.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-19.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/HEKXB9imd5fM8LjO7MUM" style="font-size:small">Link to the Target</a>
             </td>
@@ -543,7 +543,7 @@
         <tr>
             <td>056</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-20.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-20.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/HEKXB9imd5fM8LjO7MUM" style="font-size:small">Link to the Target</a>
             </td>
@@ -570,7 +570,7 @@
         <tr>
             <td>059</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-21.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-21.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/LFmA3gS1Td1dvPTs73lW" style="font-size:small">Link to the Target</a>
             </td>
@@ -597,7 +597,7 @@
         <tr>
             <td>062</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-22.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-22.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/W5eZcF2D7LqXLz7qHugI" style="font-size:small">Link to the Target</a>
             </td>
@@ -624,7 +624,7 @@
         <tr>
             <td>065</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-23.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-23.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/Vq3E4ejRQvMqh7TKMATX" style="font-size:small">Link to the Target</a>
             </td>
@@ -651,7 +651,7 @@
         <tr>
             <td>068</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-24.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-24.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/FXuSpWvF5Vc8aNq3kuKd" style="font-size:small">Link to the Target</a>
             </td>
@@ -678,7 +678,7 @@
         <tr>
             <td>071</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-25.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-25.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/mO59Pjq7xqVxF53A1Ugu" style="font-size:small">Link to the Target</a>
             </td>
@@ -705,7 +705,7 @@
         <tr>
             <td>074</td>
             <td rowspan=2>
-                <img src="src/images/targets/target_2023-09-26.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-26.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/V3vWfebqJhnFRP9se5yj" style="font-size:small">Link to the Target</a>
             </td>
@@ -725,7 +725,7 @@
         <tr>
             <td>076</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-27.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-27.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/CAI0seMLOXZmAEOKTj3o" style="font-size:small">Link to the Target</a>
             </td>
@@ -752,7 +752,7 @@
         <tr>
             <td>079</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-28.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-28.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/UzsDqnxtoQ5nQy2l2aiO" style="font-size:small">Link to the Target</a>
             </td>
@@ -779,7 +779,7 @@
         <tr>
             <td>082</td>
             <td rowspan=3>
-                <img src="src/images/targets/target_2023-09-29.png" width=100>
+                <img src="src/images/target-preview/target_2023-09-29.png" width=100>
                 <br>
                 <a href="https://cssbattle.dev/play/6hmKxYtyQQErMLuSVqHd" style="font-size:small">Link to the Target</a>
             </td>

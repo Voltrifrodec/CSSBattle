@@ -2,7 +2,7 @@
 
 [Link to the target](https://cssbattle.dev/play/i8q8xOxP7ZRO9pN7VdL6)
 
-<!-- ![img](src/images/daily-target_2023-08-26.png) -->
+<!-- ![img](../images/target-solution/daily-target_2023-08-26.png) -->
 
 <br>
 
@@ -46,8 +46,8 @@
 ## Attempts
 | Attempt | Score | Link |
 |:-:|:-:|:-:|
-| 1 | 600.00 {999}, 100% match<sup>1</sup>  | [Link to the solution](src/html/daily-target_2023-08-16_attempt-01.html) |
-| 2 | 603.10 {510}, 100% match              | [Link to the solution](src/html/daily-target_2023-08-16_attempt-02.html) |
-| 3 | 617.89 {326}, 100% match              | [Link to the solution](src/html/daily-target_2023-08-16_attempt-03.html) |
+| 1 | 600.00 {999}, 100% match<sup>1</sup>  | [Link to the solution](../html/daily-target_2023-08-16_attempt-01.html) |
+| 2 | 603.10 {510}, 100% match              | [Link to the solution](../html/daily-target_2023-08-16_attempt-02.html) |
+| 3 | 617.89 {326}, 100% match              | [Link to the solution](../html/daily-target_2023-08-16_attempt-03.html) |
 
 <sup>1</sup> - Solution has over 999 characters (actual characters: 1,836). I forgot to delete comments and unused code >.< 
