@@ -36,6 +36,6 @@
 |:-:|:-:|:-:|
 | 1 | 612.10 {367}, 100% match | [Link to the solution](/001-pilot-battle/src/html/011_eye-of-sauron_attempt-01.html) |
 | 2 | 618.06 {325}, 100% match | [Link to the solution](/001-pilot-battle/src/html/011_eye-of-sauron_attempt-02.html) |
-| 3 | 643.83 {243}, 100% match | [Link to the solution](/001-pilot-battle/src/html/011_eye-of-sauron_attempt-03.html) |
+| 3 | 643.83 {232}, 100% match | [Link to the solution](/001-pilot-battle/src/html/011_eye-of-sauron_attempt-03.html) |
 
 Highest place in the leaderboard: 67 (2023-08-28)
