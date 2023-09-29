@@ -10,33 +10,33 @@
 <table>
     <thead>
         <tr>
-            <th width="1024px" colspan=2>My stats</th>
+            <th colspan=2>My stats</th>
         </tr>
     </thead>
     <tbody>
         <tr width="1000px">
-            <td>Targets played</td>
-            <td>47</td>
+            <td width="712px">Targets played</td>
+            <td width="312px" align=right>47</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td>45</td>
+            <td align=right>45</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td>45</td>
+            <td align=right>45</td>
         </tr>
         <tr>
             <td>Average match</td>
-            <td>100.00%</td>
+            <td align=right>100.00%</td>
         </tr>
         <tr>
             <td>Average characters</td>
-            <td>203</td>
+            <td align=right>203</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td>31519.85 (avg. 670.64)</td>
+            <td align=right>31519.85 (Ø670.64)</td>
         </tr>
     </tbody>
 </table>
