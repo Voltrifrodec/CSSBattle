@@ -1,10 +1,106 @@
 # CSSBattle - Daily Targets
 
-- Targets played: 47
+<!-- - Targets played: 47
 - Current streak: 45
 - Longest streak: 45
 - Average match: 100.00%
-- Average characters: 203
+- Average characters: 203 -->
+
+<!-- I'm so sorry for you to see this... -->
+<table style="width:714px!important; margin: -1px auto;">
+    <thead>
+        <tr>
+            <th style="width:714px!important" colspan=2>My stats</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Targets played</td>
+            <td>47</td>
+        </tr>
+        <tr>
+            <td>Current streak</td>
+            <td>45</td>
+        </tr>
+        <tr>
+            <td>Longest streak</td>
+            <td>45</td>
+        </tr>
+        <tr>
+            <td>Average match</td>
+            <td>100.00%</td>
+        </tr>
+        <tr>
+            <td>Average characters</td>
+            <td>203</td>
+        </tr>
+        <tr>
+            <td>Score</td>
+            <td>203</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width:76%!important; margin: 0 auto;">
+    <thead>
+        <tr>
+            <th>Targets Played</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="src/images/target-preview/target_2023-08-12.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-13.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-16.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-17.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-18.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-19.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-20.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-21.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-22.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-23.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-24.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-25.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-26.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-27.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-28.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-29.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-30.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-08-31.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-01.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-02.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-03.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-04.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-05.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-06.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-07.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-08.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-09.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-10.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-11.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-12.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-13.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-14.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-15.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-16.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-17.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-18.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-19.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-20.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-21.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-22.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-23.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-24.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-25.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-26.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-27.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-28.png" width=50 align=left>
+                <img src="src/images/target-preview/target_2023-09-29.png" width=50 align=left>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Calendar
