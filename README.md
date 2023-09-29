@@ -36,13 +36,21 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 018 | <img width=100 height=75 alt="Target 018 Image" src=https://cssbattle.dev/targets/18.png>   | [Matrix](https://cssbattle.dev/play/18)               | [✔️](002-visibility/018_matrix.md)            |
 
 
+## Battle #05 - Inline
+[Link to the battle](https://cssbattle.dev/battle/5)
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 029 | <img width=100 height=75 alt="Target 029 Image" src=https://cssbattle.dev/targets/29.png>    | [Suffocate](https://cssbattle.dev/play/29)       | [✔️](005-inline/029_suffocate.md)    |
+| 030 | <img width=100 height=75 alt="Target 030 Image" src=https://cssbattle.dev/targets/30.png>    | [Horizon](https://cssbattle.dev/pla3043)         | [✔️](005-inline/030_horizon.md)      |
+
+
 ## Battle #08 - Transition
 [Link to the battle](https://cssbattle.dev/battle/8)
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
-| 042 | <img width=100 height=75 alt="Target 001 Image" src=https://cssbattle.dev/targets/42.png>    | [Baby](https://cssbattle.dev/play/42)            | [✔️](008-transition/042_baby.md)      |
-| 043 | <img width=100 height=75 alt="Target 002 Image" src=https://cssbattle.dev/targets/43.png>    | [Wrench](https://cssbattle.dev/play/43)          | [✔️](008-transition/043_wrench.md)    |
-| 044 | <img width=100 height=75 alt="Target 003 Image" src=https://cssbattle.dev/targets/44.png>    | [Stripes](https://cssbattle.dev/play/44)         | [✔️](008-transition/044_stripes.md)   |
+| 042 | <img width=100 height=75 alt="Target 042 Image" src=https://cssbattle.dev/targets/42.png>    | [Baby](https://cssbattle.dev/play/42)            | [✔️](008-transition/042_baby.md)      |
+| 043 | <img width=100 height=75 alt="Target 043 Image" src=https://cssbattle.dev/targets/43.png>    | [Wrench](https://cssbattle.dev/play/43)          | [✔️](008-transition/043_wrench.md)    |
+| 044 | <img width=100 height=75 alt="Target 044 Image" src=https://cssbattle.dev/targets/44.png>    | [Stripes](https://cssbattle.dev/play/44)         | [✔️](008-transition/044_stripes.md)   |
 
 
 ## Battle #26 - Initial
