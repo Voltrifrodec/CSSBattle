@@ -80,7 +80,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 |:-:|:-:|:-:|:-:|
 | 167 | <img width=100 height=75 alt="Target 167 Image" src=https://cssbattle.dev/targets/167.png>  | [React India](https://cssbattle.dev/play/167)     | [✔️](027-relative/167_react-india.md)     |
 | 168 | <img width=100 height=75 alt="Target 168 Image" src=https://cssbattle.dev/targets/168.png>  | [Carpet](https://cssbattle.dev/play/168)          | [✔️](027-relative/168_carpet.md)          |
-| 169 | <img width=100 height=75 alt="Target 169 Image" src=https://cssbattle.dev/targets/169.png>  | [Abstract Plate](https://cssbattle.dev/play/169)  | ❌                                        |
+| 169 | <img width=100 height=75 alt="Target 169 Image" src=https://cssbattle.dev/targets/169.png>  | [Abstract Plate](https://cssbattle.dev/play/169)  | [❌](027-relative/169_abstract-plate.md)  |
 | 170 | <img width=100 height=75 alt="Target 170 Image" src=https://cssbattle.dev/targets/170.png>  | [Party Hat](https://cssbattle.dev/play/170)       | ❌                                        |
 
 ## IDE Style
