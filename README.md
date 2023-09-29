@@ -23,6 +23,19 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | [✔️](001-pilot-battle/012_wiggly-moustache.md) |
 
 
+## Battle #02 - Visibility
+[Link to the battle](https://cssbattle.dev/battle/2)
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 013 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/13.png>   | [Totally Triangle](https://cssbattle.dev/play/13)     | [✔️](002-visibility/013_totally-triangle.md)  |
+| 014 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/14.png>   | [Web Maker Logo](https://cssbattle.dev/play/14)       | [✔️](002-visibility/014_web-maker-logo.md)    |
+| 015 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/15.png>   | [Overlap](https://cssbattle.dev/play/15)              | ❌                                            |
+| 016 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/16.png>   | [Eye of the Tiger](https://cssbattle.dev/play/16)     | ❌                                            |
+| 017 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/17.png>   | [Fidget Spinner](https://cssbattle.dev/play/17)       | [✔️](002-visibility/017_fidget-spinner.md)    |
+| 018 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/18.png>   | [Matrix](https://cssbattle.dev/play/18)               | [✔️](002-visibility/018_matrix.md)            |
+
+
 ## Battle #08 - Transition
 [Link to the battle](https://cssbattle.dev/battle/8)
 | No. | Target | Name | Solved |
