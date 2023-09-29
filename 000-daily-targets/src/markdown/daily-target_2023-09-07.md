@@ -29,4 +29,4 @@
 | 1 | 612.82 {361}, 100% match | [Link to the solution](../html/daily-target_2023-09-07_attempt-01.html) |
 | 2 | 617.55 {328}, 100% match | [Link to the solution](../html/daily-target_2023-09-07_attempt-02.html) |
 | 3 | 635.54 {254}, 100% match | [Link to the solution](../html/daily-target_2023-09-07_attempt-03.html) |
-| 4 | 597.54 {314}, 100% match | [Link to the solution](../html/daily-target_2023-09-07_attempt-04.html) |
+| 4 | 597.54 {314}, 99.9% match | [Link to the solution](../html/daily-target_2023-09-07_attempt-04.html) |

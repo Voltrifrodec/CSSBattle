@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>Score</td>
-            <td>203</td>
+            <td>31519.85 (avg. 670.64)</td>
         </tr>
     </tbody>
 </table>
