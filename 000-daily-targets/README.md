@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>47</td>
+            <td width="312px" align=right>48</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>45</td>
+            <td align=right>46</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>45</td>
+            <td align=right>46</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>31519.85 (Ø670.64)</td>
+            <td align=right>32155.39 (Ø669.90)</td>
         </tr>
     </tbody>
 </table>
@@ -97,11 +97,13 @@
                 <img src="src/images/target-preview/target_2023-09-27.png" width=50>
                 <img src="src/images/target-preview/target_2023-09-28.png" width=50>
                 <img src="src/images/target-preview/target_2023-09-29.png" width=50>
+                <img src="src/images/target-preview/target_2023-09-30.png" width=50>
             </td>
         </tr>
     </tbody>
 </table>
 
+<br>
 
 ## Calendar
 
@@ -116,7 +118,7 @@
 | 36 |  4<sub>[✔️](src/markdown/daily-target_2023-09-04.md)</sub>   |  5<sub>[✔️](src/markdown/daily-target_2023-09-05.md)</sub>    |  6<sub>[✔️](src/markdown/daily-target_2023-09-06.md)</sub>    |  7<sub>[✔️](src/markdown/daily-target_2023-09-07.md)</sub>    |  8<sub>[✔️](src/markdown/daily-target_2023-09-08.md)</sub> |  9<sub>[✔️](src/markdown/daily-target_2023-09-09.md)</sub> | 10<sub>[✔️](src/markdown/daily-target_2023-09-10.md)</sub> |
 | 37 | 11<sub>[✔️](src/markdown/daily-target_2023-09-11.md)</sub>   | 12<sub>[✔️](src/markdown/daily-target_2023-09-12.md)</sub>    | 13<sub>[✔️](src/markdown/daily-target_2023-09-13.md)</sub>    | 14<sub>[✔️](src/markdown/daily-target_2023-09-14.md)</sub>    | 15<sub>[✔️](src/markdown/daily-target_2023-09-15.md)</sub> | 16<sub>[✔️](src/markdown/daily-target_2023-09-16.md)</sub> | 17<sub>[✔️](src/markdown/daily-target_2023-09-17.md)</sub> |
 | 38 | 18<sub>[✔️](src/markdown/daily-target_2023-09-18.md)</sub>   | 19<sub>[✔️](src/markdown/daily-target_2023-09-19.md)</sub>    | 20<sub>[✔️](src/markdown/daily-target_2023-09-20.md)</sub>    | 21<sub>[✔️](src/markdown/daily-target_2023-09-21.md)</sub>    | 22<sub>[✔️](src/markdown/daily-target_2023-09-22.md)</sub> | 23<sub>[✔️](src/markdown/daily-target_2023-09-23.md)</sub> | 24<sub>[✔️](src/markdown/daily-target_2023-09-24.md)</sub> |
-| 39 | 25<sub>[✔️](src/markdown/daily-target_2023-09-25.md)</sub>   | 26<sub>[✔️](src/markdown/daily-target_2023-09-26.md)</sub>    | 27<sub>[✔️](src/markdown/daily-target_2023-09-27.md)</sub>    | 28<sub>[✔️](src/markdown/daily-target_2023-09-28.md)</sub>    | 29<sub>[✔️](src/markdown/daily-target_2023-09-29.md)</sub> | 30 | ➖ |
+| 39 | 25<sub>[✔️](src/markdown/daily-target_2023-09-25.md)</sub>   | 26<sub>[✔️](src/markdown/daily-target_2023-09-26.md)</sub>    | 27<sub>[✔️](src/markdown/daily-target_2023-09-27.md)</sub>    | 28<sub>[✔️](src/markdown/daily-target_2023-09-28.md)</sub>    | 29<sub>[✔️](src/markdown/daily-target_2023-09-29.md)</sub> | 30<sub>[✔️](src/markdown/daily-target_2023-09-30.md)</sub> | ➖ |
 
 </details>
 
