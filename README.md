@@ -4,7 +4,16 @@
 Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.dev/).
 Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
 
-## Battle #01 - Pilot Battle
+
+## Battles
+
+<br>
+
+<details close>
+    <summary>
+        <h3>✔️ Battle #01 - Pilot Battle</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/1)
 
 | No. | Target | Name | Solved |
@@ -22,8 +31,14 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 011 | <img width=100 height=75 alt="Target 011 Image" src=https://cssbattle.dev/targets/11.png>   | [Eye of Sauron](https://cssbattle.dev/play/11)      | [✔️](001-pilot-battle/011_eye-of-sauron.md) |
 | 012 | <img width=100 height=75 alt="Target 012 Image" src=https://cssbattle.dev/targets/12.png>   | [Wiggly Moustache](https://cssbattle.dev/play/12)   | [✔️](001-pilot-battle/012_wiggly-moustache.md) |
 
+</details>
 
-## Battle #02 - Visibility
+
+<details close>
+    <summary>
+        <h3>❌ Battle #02 - Visibility</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/2)
 
 | No. | Target | Name | Solved |
@@ -35,16 +50,65 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 017 | <img width=100 height=75 alt="Target 017 Image" src=https://cssbattle.dev/targets/17.png>   | [Fidget Spinner](https://cssbattle.dev/play/17)       | [✔️](002-visibility/017_fidget-spinner.md)    |
 | 018 | <img width=100 height=75 alt="Target 018 Image" src=https://cssbattle.dev/targets/18.png>   | [Matrix](https://cssbattle.dev/play/18)               | [✔️](002-visibility/018_matrix.md)            |
 
+</details>
 
-## Battle #05 - Inline
+
+<details close>
+    <summary>
+        <h3>❌ Battle #03 - Cursor</h3>
+    </summary>
+
+[Link to the battle](https://cssbattle.dev/battle/2)
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 019 | <img width=100 height=75 alt="Target 019 Image" src=https://cssbattle.dev/targets/19.png>   | [Cube](https://cssbattle.dev/play/19)                 | [✔️](003-cursor/019_cube.md)                  |
+| 020 | <img width=100 height=75 alt="Target 020 Image" src=https://cssbattle.dev/targets/20.png>   | [Ticket](https://cssbattle.dev/play/20)               | ❌            |
+
+</details>
+
+
+<details close>
+    <summary>
+        <h3>❌ Battle #04 - Display</h3>
+    </summary>
+
+[Link to the battle](https://cssbattle.dev/battle/4)
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 021 | <img width=100 height=75 alt="Target 021 Image" src=https://cssbattle.dev/targets/21.png>    | [SitePoint Logo](https://cssbattle.dev/play/21)       | ❌                                                |
+| 022 | <img width=100 height=75 alt="Target 022 Image" src=https://cssbattle.dev/targets/22.png>    | [Cloud](https://cssbattle.dev/play/22)       | ❌                                                |
+| 023 | <img width=100 height=75 alt="Target 023 Image" src=https://cssbattle.dev/targets/23.png>    | [Boxecption](https://cssbattle.dev/play/23)       | ❌                                                |
+| 024 | <img width=100 height=75 alt="Target 024 Image" src=https://cssbattle.dev/targets/24.png>    | [Switches](https://cssbattle.dev/play/24)       | ❌                                                |
+| 025 | <img width=100 height=75 alt="Target 025 Image" src=https://cssbattle.dev/targets/25.png>    | [Blossom](https://cssbattle.dev/play/25)       | ❌                                                |
+| 026 | <img width=100 height=75 alt="Target 026 Image" src=https://cssbattle.dev/targets/26.png>    | [Smiley](https://cssbattle.dev/play/26)       | ❌                                                |
+| 027 | <img width=100 height=75 alt="Target 027 Image" src=https://cssbattle.dev/targets/27.png>    | [Lock Up](https://cssbattle.dev/play/27)       | ❌                                                |
+| 028 | <img width=100 height=75 alt="Target 028 Image" src=https://cssbattle.dev/targets/28.png>    | [Cups & Balls](https://cssbattle.dev/play/28)       | ❌                                                |
+
+</details>
+
+
+<details close>
+    <summary>
+        <h3>✔️ Battle #05 - Inline</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/5)
+
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
 | 029 | <img width=100 height=75 alt="Target 029 Image" src=https://cssbattle.dev/targets/29.png>    | [Suffocate](https://cssbattle.dev/play/29)       | [✔️](005-inline/029_suffocate.md)    |
 | 030 | <img width=100 height=75 alt="Target 030 Image" src=https://cssbattle.dev/targets/30.png>    | [Horizon](https://cssbattle.dev/pla3043)         | [✔️](005-inline/030_horizon.md)      |
 
+</details>
 
-## Battle #08 - Transition
+
+<details close>
+    <summary>
+        <h3>✔️ Battle #08 - Transition</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/8)
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
@@ -52,8 +116,14 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 043 | <img width=100 height=75 alt="Target 043 Image" src=https://cssbattle.dev/targets/43.png>    | [Wrench](https://cssbattle.dev/play/43)          | [✔️](008-transition/043_wrench.md)    |
 | 044 | <img width=100 height=75 alt="Target 044 Image" src=https://cssbattle.dev/targets/44.png>    | [Stripes](https://cssbattle.dev/play/44)         | [✔️](008-transition/044_stripes.md)   |
 
+</details>
 
-## Battle #26 - Initial
+
+<details close>
+    <summary>
+        <h3>✔️ Battle #26 - Initial</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/26)
 
 - My highest place in the overall leaderboard: 31 (2023-09-01)
@@ -70,11 +140,18 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 165 | <img width=100 height=75 alt="Target 165 Image" src=https://cssbattle.dev/targets/165.png>  | [Pyramid](https://cssbattle.dev/play/165)         | [✔️](026-initial/165_pyramid.md)            |
 | 166 | <img width=100 height=75 alt="Target 166 Image" src=https://cssbattle.dev/targets/166.png>  | [Flow](https://cssbattle.dev/play/166)            | [✔️](026-initial/166_flow.md)               |
 
+</details>
 
-## Battle #27 - Relative
+
+
+<details close>
+    <summary>
+        <h3>❌ Battle #27 - Relative</h3>
+    </summary>
+
 [Link to the battle](https://cssbattle.dev/battle/27)
 - My highest place in the overall leaderboard: 111 (2023-09-25)
-- Finish rank: ---
+- Finish rank: 172
 
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
@@ -83,26 +160,52 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 | 169 | <img width=100 height=75 alt="Target 169 Image" src=https://cssbattle.dev/targets/169.png>  | [Abstract Plate](https://cssbattle.dev/play/169)  | [❌](027-relative/169_abstract-plate.md)  |
 | 170 | <img width=100 height=75 alt="Target 170 Image" src=https://cssbattle.dev/targets/170.png>  | [Party Hat](https://cssbattle.dev/play/170)       | ❌                                        |
 
-## IDE Style
-<style>
-    * {
-        background: #000;
-        color: #fff;
-        font-family: monospace;
-    }
-    h1, h2, h3, h4, h5, h6, tr > td:first-of-type, th {
-        color: #0ee !important;
-    }
-    h2, h3 {
-        border-top: 2px solid #fff;
-        padding-top: 2%;
-        margin-top: 5% !important;
-    }
-    tr > td {
-        vertical-align: middle !important; 
-    }
-    a {
-        text-decoration: underline !important;
-        font-family: monospace;
-    }
-</style>
+</details>
+
+
+<!-- IDE Styles -->
+<br>
+<hr>
+<details close>
+    <summary>
+        <h2>IDE Style</h2>
+    </summary>
+    <style>
+        * {
+            background: #000;
+            color: #fff;
+            font-family: monospace;
+        }
+        details {
+            margin-bottom: 2.5%;
+        }
+        details > summary > h3, details > summary > h2 {
+            color: #0ee !important;
+            display: inline;
+            border-top: 0;
+        }
+        h1, h2, h3, h4, h5, h6, tr > td:first-of-type, th {
+            color: #0ee !important;
+        }
+        h2, h3 {
+            border-top: 2px solid #fff;
+            padding-top: 2%;
+            margin-top: 5% !important;
+        }
+        tr > td {
+            vertical-align: middle !important; 
+        }
+        *:not(details > summary) > h2, *:not(details > summary) > h3 {
+            border-top: 2px solid #fff;
+            padding-top: 2%;
+            margin-top: 5% !important;
+        }
+        *:not(details > summary) > table {
+            margin-bottom: 5%;
+        }
+        a {
+            text-decoration: underline !important;
+            font-family: monospace;
+        }
+    </style>
+</details>
