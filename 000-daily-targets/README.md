@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>48</td>
+            <td width="312px" align=right>49</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>46</td>
+            <td align=right>47</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>46</td>
+            <td align=right>47</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,11 +32,11 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>203</td>
+            <td align=right>201</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>32155.39 (Ø669.90)</td>
+            <td align=right>32875.76 (Ø670.93)</td>
         </tr>
     </tbody>
 </table>
@@ -98,6 +98,7 @@
                 <img src="src/images/target-preview/target_2023-09-28.png" width=50>
                 <img src="src/images/target-preview/target_2023-09-29.png" width=50>
                 <img src="src/images/target-preview/target_2023-09-30.png" width=50>
+                <img src="src/images/target-preview/target_2023-10-01.png" width=50>
             </td>
         </tr>
     </tbody>
@@ -107,7 +108,24 @@
 
 ## Calendar
 
+
 <details open>
+    <summary>
+        <h3>October 2023</h3>
+    </summary>
+
+| Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 39 | ➖                                                           | ➖                                                            | ➖                                                            | ➖                                                            | ➖                                                         | ➖                                                         |  1<sub>[✔️](src/markdown/daily-target_2023-10-01.md)</sub> |
+| 40 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |
+| 41 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 42 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 43 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 44 | 30 | 31 | ➖ | ➖ | ➖ | ➖ | ➖ |
+
+</details>
+
+<details close>
     <summary>
         <h3>September 2023</h3>
     </summary>
