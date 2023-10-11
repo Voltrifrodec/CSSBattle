@@ -20,11 +20,11 @@
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>56</td>
+            <td align=right>57</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>56</td>
+            <td align=right>57</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,11 +32,11 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>200</td>
+            <td align=right>199</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>38924.18 (Ø671.11)</td>
+            <td align=right>39603.32 (Ø671.24)</td>
         </tr>
     </tbody>
 </table>
@@ -50,64 +50,65 @@
     <tbody>
         <tr>
             <td align=middle>
-                <img src="src/images/target-preview/target_2023-08-12.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-13.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-16.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-17.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-18.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-19.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-20.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-21.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-22.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-23.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-24.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-25.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-26.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-27.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-28.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-29.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-30.png" width=50>
-                <img src="src/images/target-preview/target_2023-08-31.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-01.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-02.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-03.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-04.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-05.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-06.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-07.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-08.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-09.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-10.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-11.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-12.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-13.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-14.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-15.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-16.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-17.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-18.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-19.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-20.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-21.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-22.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-23.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-24.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-25.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-26.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-27.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-28.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-29.png" width=50>
-                <img src="src/images/target-preview/target_2023-09-30.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-01.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-02.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-03.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-04.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-05.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-06.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-07.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-08.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-09.png" width=50>
-                <img src="src/images/target-preview/target_2023-10-10.png" width=50>
+                <img src="src/images/target-preview/target_2023-08-12.png" width=50 alt="Daily Target Image - 2023/08/12">
+                <img src="src/images/target-preview/target_2023-08-13.png" width=50 alt="Daily Target Image - 2023/08/13">
+                <img src="src/images/target-preview/target_2023-08-16.png" width=50 alt="Daily Target Image - 2023/08/14">
+                <img src="src/images/target-preview/target_2023-08-17.png" width=50 alt="Daily Target Image - 2023/08/15">
+                <img src="src/images/target-preview/target_2023-08-18.png" width=50 alt="Daily Target Image - 2023/08/16">
+                <img src="src/images/target-preview/target_2023-08-19.png" width=50 alt="Daily Target Image - 2023/08/17">
+                <img src="src/images/target-preview/target_2023-08-20.png" width=50 alt="Daily Target Image - 2023/08/20">
+                <img src="src/images/target-preview/target_2023-08-21.png" width=50 alt="Daily Target Image - 2023/08/21">
+                <img src="src/images/target-preview/target_2023-08-22.png" width=50 alt="Daily Target Image - 2023/08/22">
+                <img src="src/images/target-preview/target_2023-08-23.png" width=50 alt="Daily Target Image - 2023/08/23">
+                <img src="src/images/target-preview/target_2023-08-24.png" width=50 alt="Daily Target Image - 2023/08/24">
+                <img src="src/images/target-preview/target_2023-08-25.png" width=50 alt="Daily Target Image - 2023/08/25">
+                <img src="src/images/target-preview/target_2023-08-26.png" width=50 alt="Daily Target Image - 2023/08/26">
+                <img src="src/images/target-preview/target_2023-08-27.png" width=50 alt="Daily Target Image - 2023/08/27">
+                <img src="src/images/target-preview/target_2023-08-28.png" width=50 alt="Daily Target Image - 2023/08/28">
+                <img src="src/images/target-preview/target_2023-08-29.png" width=50 alt="Daily Target Image - 2023/08/29">
+                <img src="src/images/target-preview/target_2023-08-30.png" width=50 alt="Daily Target Image - 2023/08/30">
+                <img src="src/images/target-preview/target_2023-08-31.png" width=50 alt="Daily Target Image - 2023/08/31">
+                <img src="src/images/target-preview/target_2023-09-01.png" width=50 alt="Daily Target Image - 2023/09/01">
+                <img src="src/images/target-preview/target_2023-09-02.png" width=50 alt="Daily Target Image - 2023/09/02">
+                <img src="src/images/target-preview/target_2023-09-03.png" width=50 alt="Daily Target Image - 2023/09/03">
+                <img src="src/images/target-preview/target_2023-09-04.png" width=50 alt="Daily Target Image - 2023/09/04">
+                <img src="src/images/target-preview/target_2023-09-05.png" width=50 alt="Daily Target Image - 2023/09/05">
+                <img src="src/images/target-preview/target_2023-09-06.png" width=50 alt="Daily Target Image - 2023/09/06">
+                <img src="src/images/target-preview/target_2023-09-07.png" width=50 alt="Daily Target Image - 2023/09/07">
+                <img src="src/images/target-preview/target_2023-09-08.png" width=50 alt="Daily Target Image - 2023/09/08">
+                <img src="src/images/target-preview/target_2023-09-09.png" width=50 alt="Daily Target Image - 2023/09/09">
+                <img src="src/images/target-preview/target_2023-09-10.png" width=50 alt="Daily Target Image - 2023/09/10">
+                <img src="src/images/target-preview/target_2023-09-11.png" width=50 alt="Daily Target Image - 2023/09/11">
+                <img src="src/images/target-preview/target_2023-09-12.png" width=50 alt="Daily Target Image - 2023/09/12">
+                <img src="src/images/target-preview/target_2023-09-13.png" width=50 alt="Daily Target Image - 2023/09/13">
+                <img src="src/images/target-preview/target_2023-09-14.png" width=50 alt="Daily Target Image - 2023/09/14">
+                <img src="src/images/target-preview/target_2023-09-15.png" width=50 alt="Daily Target Image - 2023/09/15">
+                <img src="src/images/target-preview/target_2023-09-16.png" width=50 alt="Daily Target Image - 2023/09/16">
+                <img src="src/images/target-preview/target_2023-09-17.png" width=50 alt="Daily Target Image - 2023/09/17">
+                <img src="src/images/target-preview/target_2023-09-18.png" width=50 alt="Daily Target Image - 2023/09/18">
+                <img src="src/images/target-preview/target_2023-09-19.png" width=50 alt="Daily Target Image - 2023/09/19">
+                <img src="src/images/target-preview/target_2023-09-20.png" width=50 alt="Daily Target Image - 2023/09/20">
+                <img src="src/images/target-preview/target_2023-09-21.png" width=50 alt="Daily Target Image - 2023/09/21">
+                <img src="src/images/target-preview/target_2023-09-22.png" width=50 alt="Daily Target Image - 2023/09/22">
+                <img src="src/images/target-preview/target_2023-09-23.png" width=50 alt="Daily Target Image - 2023/09/23">
+                <img src="src/images/target-preview/target_2023-09-24.png" width=50 alt="Daily Target Image - 2023/09/24">
+                <img src="src/images/target-preview/target_2023-09-25.png" width=50 alt="Daily Target Image - 2023/09/25">
+                <img src="src/images/target-preview/target_2023-09-26.png" width=50 alt="Daily Target Image - 2023/09/26">
+                <img src="src/images/target-preview/target_2023-09-27.png" width=50 alt="Daily Target Image - 2023/09/27">
+                <img src="src/images/target-preview/target_2023-09-28.png" width=50 alt="Daily Target Image - 2023/09/28">
+                <img src="src/images/target-preview/target_2023-09-29.png" width=50 alt="Daily Target Image - 2023/09/29">
+                <img src="src/images/target-preview/target_2023-09-30.png" width=50 alt="Daily Target Image - 2023/09/30">
+                <img src="src/images/target-preview/target_2023-10-01.png" width=50 alt="Daily Target Image - 2023/10/01">
+                <img src="src/images/target-preview/target_2023-10-02.png" width=50 alt="Daily Target Image - 2023/10/02">
+                <img src="src/images/target-preview/target_2023-10-03.png" width=50 alt="Daily Target Image - 2023/10/03">
+                <img src="src/images/target-preview/target_2023-10-04.png" width=50 alt="Daily Target Image - 2023/10/04">
+                <img src="src/images/target-preview/target_2023-10-05.png" width=50 alt="Daily Target Image - 2023/10/05">
+                <img src="src/images/target-preview/target_2023-10-06.png" width=50 alt="Daily Target Image - 2023/10/06">
+                <img src="src/images/target-preview/target_2023-10-07.png" width=50 alt="Daily Target Image - 2023/10/07">
+                <img src="src/images/target-preview/target_2023-10-08.png" width=50 alt="Daily Target Image - 2023/10/08">
+                <img src="src/images/target-preview/target_2023-10-09.png" width=50 alt="Daily Target Image - 2023/10/09">
+                <img src="src/images/target-preview/target_2023-10-10.png" width=50 alt="Daily Target Image - 2023/10/10">
+                <img src="src/images/target-preview/target_2023-10-11.png" width=50 alt="Daily Target Image - 2023/10/11">
             </td>
         </tr>
     </tbody>
@@ -127,7 +128,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 39 | ➖                                                           | ➖                                                            | ➖                                                            | ➖                                                            | ➖                                                         | ➖                                                         |  1<sub>[✔️](src/markdown/daily-target_2023-10-01.md)</sub> |
 | 40 |  2<sub>[✔️](src/markdown/daily-target_2023-10-02.md)</sub>   |  3<sub>[✔️](src/markdown/daily-target_2023-10-03.md)</sub>    |  4<sub>[✔️](src/markdown/daily-target_2023-10-04.md)</sub>    |  5<sub>[✔️](src/markdown/daily-target_2023-10-05.md)</sub>    |  6<sub>[✔️](src/markdown/daily-target_2023-10-06.md)</sub> |  7<sub>[✔️](src/markdown/daily-target_2023-10-07.md)</sub> |  8<sub>[✔️](src/markdown/daily-target_2023-10-08.md)</sub> |
-| 41 |  9<sub>[✔️](src/markdown/daily-target_2023-10-09.md)</sub>   | 10<sub>[✔️](src/markdown/daily-target_2023-10-10.md)</sub>    | 11 | 12 | 13 | 14 | 15 |
+| 41 |  9<sub>[✔️](src/markdown/daily-target_2023-10-09.md)</sub>   | 10<sub>[✔️](src/markdown/daily-target_2023-10-10.md)</sub>    | 11<sub>[✔️](src/markdown/daily-target_2023-10-11.md)</sub>    | 12 | 13 | 14 | 15 |
 | 42 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 43 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 44 | 30 | 31 | ➖ | ➖ | ➖ | ➖ | ➖ |
