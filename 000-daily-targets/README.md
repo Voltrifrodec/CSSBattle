@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>58</td>
+            <td width="312px" align=right>60</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>57</td>
+            <td align=right>58</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>57</td>
+            <td align=right>58</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>39603.32 (Ø671.24)</td>
+            <td align=right>40267.49 (Ø671.12)</td>
         </tr>
     </tbody>
 </table>
@@ -109,6 +109,7 @@
                 <img src="src/images/target-preview/target_2023-10-09.png" width=50 alt="Daily Target Image - 2023/10/09">
                 <img src="src/images/target-preview/target_2023-10-10.png" width=50 alt="Daily Target Image - 2023/10/10">
                 <img src="src/images/target-preview/target_2023-10-11.png" width=50 alt="Daily Target Image - 2023/10/11">
+                <img src="src/images/target-preview/target_2023-10-12.png" width=50 alt="Daily Target Image - 2023/10/12">
             </td>
         </tr>
     </tbody>
@@ -128,7 +129,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 39 | ➖                                                           | ➖                                                            | ➖                                                            | ➖                                                            | ➖                                                         | ➖                                                         |  1<sub>[✔️](src/markdown/daily-target_2023-10-01.md)</sub> |
 | 40 |  2<sub>[✔️](src/markdown/daily-target_2023-10-02.md)</sub>   |  3<sub>[✔️](src/markdown/daily-target_2023-10-03.md)</sub>    |  4<sub>[✔️](src/markdown/daily-target_2023-10-04.md)</sub>    |  5<sub>[✔️](src/markdown/daily-target_2023-10-05.md)</sub>    |  6<sub>[✔️](src/markdown/daily-target_2023-10-06.md)</sub> |  7<sub>[✔️](src/markdown/daily-target_2023-10-07.md)</sub> |  8<sub>[✔️](src/markdown/daily-target_2023-10-08.md)</sub> |
-| 41 |  9<sub>[✔️](src/markdown/daily-target_2023-10-09.md)</sub>   | 10<sub>[✔️](src/markdown/daily-target_2023-10-10.md)</sub>    | 11<sub>[✔️](src/markdown/daily-target_2023-10-11.md)</sub>    | 12 | 13 | 14 | 15 |
+| 41 |  9<sub>[✔️](src/markdown/daily-target_2023-10-09.md)</sub>   | 10<sub>[✔️](src/markdown/daily-target_2023-10-10.md)</sub>    | 11<sub>[✔️](src/markdown/daily-target_2023-10-11.md)</sub>    | 12<sub>[✔️](src/markdown/daily-target_2023-10-12.md)</sub>    | 13 | 14 | 15 |
 | 42 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 43 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 44 | 30 | 31 | ➖ | ➖ | ➖ | ➖ | ➖ |
