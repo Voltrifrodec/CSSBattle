@@ -162,6 +162,22 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 
 </details>
 
+<details open>
+    <summary>
+        <h3>❌ Battle #28 - Revert</h3>
+    </summary>
+
+[Link to the battle](https://cssbattle.dev/battle/28)
+- My highest place in the overall leaderboard: 20 (2023-10-13)
+- Finish rank: ---
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 171 | <img width=100 height=75 alt="Target 171 Image" src=https://cssbattle.dev/targets/171.png>  | [Pumpkin](https://cssbattle.dev/play/171)        | [❌](028-revert/171_pumpkin.md)            |
+| 172 | <img width=100 height=75 alt="Target 172 Image" src=https://cssbattle.dev/targets/172.png>  | [Crossbones](https://cssbattle.dev/play/172)     | [❌](028-revert/172_crossbones.md)         |
+
+</details>
+
 
 <!-- IDE Styles -->
 <br>
