@@ -5,6 +5,10 @@ Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.de
 Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
 
 
+## Daily Targets
+
+[List of finished daily targets](000-daily-targets/README.md)
+
 ## Battles
 
 <br>
