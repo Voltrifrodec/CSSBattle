@@ -123,6 +123,30 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 </details>
 
 
+<details open>
+    <summary>
+        <h3>❌ Battle #24 - Offset</h3>
+    </summary>
+
+[Link to the battle](https://cssbattle.dev/battle/24)
+
+- My highest place in the overall leaderboard: 1,313 (2023-??-??)
+- Finish rank: 1,313
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 143 | <img width=100 height=75 alt="Target 143 Image" src=https://cssbattle.dev/targets/143.png>  | [Simply Circle](https://cssbattle.dev/play/143)   | ❌ |
+| 144 | <img width=100 height=75 alt="Target 144 Image" src=https://cssbattle.dev/targets/144.png>  | [Long Heart](https://cssbattle.dev/play/144)      | ❌ |
+| 145 | <img width=100 height=75 alt="Target 145 Image" src=https://cssbattle.dev/targets/145.png>  | [Spotlight](https://cssbattle.dev/play/145)       | ❌ |
+| 146 | <img width=100 height=75 alt="Target 146 Image" src=https://cssbattle.dev/targets/146.png>  | [Streaks](https://cssbattle.dev/play/146)         | ❌ |
+| 147 | <img width=100 height=75 alt="Target 147 Image" src=https://cssbattle.dev/targets/147.png>  | [Splash](https://cssbattle.dev/play/147)          | [✔️](024-offset/147_splash.md) |
+| 148 | <img width=100 height=75 alt="Target 148 Image" src=https://cssbattle.dev/targets/148.png>  | [Eight](https://cssbattle.dev/play/148)           | [✔️](024-offset/148_eight.md)  |
+| 149 | <img width=100 height=75 alt="Target 149 Image" src=https://cssbattle.dev/targets/149.png>  | [Earthworm](https://cssbattle.dev/play/149)       | ❌ |
+| 150 | <img width=100 height=75 alt="Target 150 Image" src=https://cssbattle.dev/targets/150.png>  | [Finger Heart](https://cssbattle.dev/play/150)    | ❌ |
+
+</details>
+
+
 <details close>
     <summary>
         <h3>✔️ Battle #26 - Initial</h3>
