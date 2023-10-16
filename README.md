@@ -1,13 +1,29 @@
 #### $\textcolor{red}{\textsf{The repository is being reconstructed. I haven't uploaded all of the solved targets yet..}}$ 
 
 # CSSBattle
-Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.dev/).
-Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
+- Repository for solved targets from [https://cssbattle.dev/](https://cssbattle.dev/).
+- Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
+
+
+## Goal
+### Classic Targets
+1. Rank 2,000 or higher: ✔️ (2023-??-??)
+2. Rank 1,500 or higher: ❌
+3. Rank 1,000 or higher: ❌
+4. Rank 500 or higher: ❌
+5. Rank 250 or higher: ❌
+6. Rank 100 or higher: ❌
+
+### Daily Targets
+1. Day  50: [✔️](000-daily-targets/src/markdown/daily-target_2023-09-02.md)
+2. Day 100: ❌ *not reached yet*
+
 
 
 ## Daily Targets
 
 [List of finished daily targets](000-daily-targets/README.md)
+
 
 ## Battles
 
@@ -123,7 +139,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 </details>
 
 
-<details open>
+<details close>
     <summary>
         <h3>❌ Battle #24 - Offset</h3>
     </summary>
@@ -192,7 +208,7 @@ Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/playe
 
 <details open>
     <summary>
-        <h3>❌ Battle #28 - Revert</h3>
+        <h3>❌ Battle #28 - Revert [ONGOING]</h3>
     </summary>
 
 [Link to the battle](https://cssbattle.dev/battle/28)
