@@ -49,3 +49,6 @@
   +p{
     margin:100+0
 ```
+
+## Notes
+<!-- Probably reached second place with this solution (since 1st place was 96 characters, and 3rd was 106 (= also there were only 9 submissions and not 10 as usual)). Or maybe not. *mysterious music* -->
