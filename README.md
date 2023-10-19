@@ -56,7 +56,7 @@
 
 <details close>
     <summary>
-        <h3>❌ Battle #02 - Visibility</h3>
+        <h3>✔️ Battle #02 - Visibility</h3>
     </summary>
 
 [Link to the battle](https://cssbattle.dev/battle/2)
@@ -65,17 +65,17 @@
 |:-:|:-:|:-:|:-:|
 | 013 | <img width=100 height=75 alt="Target 013 Image" src=https://cssbattle.dev/targets/13.png>   | [Totally Triangle](https://cssbattle.dev/play/13)     | [✔️](002-visibility/013_totally-triangle.md)  |
 | 014 | <img width=100 height=75 alt="Target 014 Image" src=https://cssbattle.dev/targets/14.png>   | [Web Maker Logo](https://cssbattle.dev/play/14)       | [✔️](002-visibility/014_web-maker-logo.md)    |
-| 015 | <img width=100 height=75 alt="Target 015 Image" src=https://cssbattle.dev/targets/15.png>   | [Overlap](https://cssbattle.dev/play/15)              | ❌                                            |
-| 016 | <img width=100 height=75 alt="Target 016 Image" src=https://cssbattle.dev/targets/16.png>   | [Eye of the Tiger](https://cssbattle.dev/play/16)     | ❌                                            |
+| 015 | <img width=100 height=75 alt="Target 015 Image" src=https://cssbattle.dev/targets/15.png>   | [Overlap](https://cssbattle.dev/play/15)              | [✔️](002-visibility/015_overlap.md)           |
+| 016 | <img width=100 height=75 alt="Target 016 Image" src=https://cssbattle.dev/targets/16.png>   | [Eye of the Tiger](https://cssbattle.dev/play/16)     | [✔️](002-visibility/016_eye-of-the-tiger.md)  |
 | 017 | <img width=100 height=75 alt="Target 017 Image" src=https://cssbattle.dev/targets/17.png>   | [Fidget Spinner](https://cssbattle.dev/play/17)       | [✔️](002-visibility/017_fidget-spinner.md)    |
 | 018 | <img width=100 height=75 alt="Target 018 Image" src=https://cssbattle.dev/targets/18.png>   | [Matrix](https://cssbattle.dev/play/18)               | [✔️](002-visibility/018_matrix.md)            |
 
 </details>
 
 
-<details close>
+<details open>
     <summary>
-        <h3>❌ Battle #03 - Cursor</h3>
+        <h3>✔️ Battle #03 - Cursor</h3>
     </summary>
 
 [Link to the battle](https://cssbattle.dev/battle/2)
@@ -83,7 +83,7 @@
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
 | 019 | <img width=100 height=75 alt="Target 019 Image" src=https://cssbattle.dev/targets/19.png>   | [Cube](https://cssbattle.dev/play/19)                 | [✔️](003-cursor/019_cube.md)                  |
-| 020 | <img width=100 height=75 alt="Target 020 Image" src=https://cssbattle.dev/targets/20.png>   | [Ticket](https://cssbattle.dev/play/20)               | ❌            |
+| 020 | <img width=100 height=75 alt="Target 020 Image" src=https://cssbattle.dev/targets/20.png>   | [Ticket](https://cssbattle.dev/play/20)               | [✔️](003-cursor/020_ticket.md)                |
 
 </details>
 
