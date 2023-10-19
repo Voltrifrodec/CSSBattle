@@ -73,7 +73,7 @@
 </details>
 
 
-<details open>
+<details close>
     <summary>
         <h3>✔️ Battle #03 - Cursor</h3>
     </summary>
