@@ -219,6 +219,7 @@
 |:-:|:-:|:-:|:-:|
 | 171 | <img width=100 height=75 alt="Target 171 Image" src=https://cssbattle.dev/targets/171.png>  | [Pumpkin](https://cssbattle.dev/play/171)        | [❌](028-revert/171_pumpkin.md)            |
 | 172 | <img width=100 height=75 alt="Target 172 Image" src=https://cssbattle.dev/targets/172.png>  | [Crossbones](https://cssbattle.dev/play/172)     | [❌](028-revert/172_crossbones.md)         |
+| 173 | <img width=100 height=75 alt="Target 173 Image" src=https://cssbattle.dev/targets/173.png>  | [Hockey Mask](https://cssbattle.dev/play/173)    | [✔️](028-revert/173_hockey-mask.md)        |
 
 </details>
 
