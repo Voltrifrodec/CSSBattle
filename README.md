@@ -97,14 +97,14 @@
 
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
-| 021 | <img width=100 height=75 alt="Target 021 Image" src=https://cssbattle.dev/targets/21.png>    | [SitePoint Logo](https://cssbattle.dev/play/21)       | ❌                                                |
-| 022 | <img width=100 height=75 alt="Target 022 Image" src=https://cssbattle.dev/targets/22.png>    | [Cloud](https://cssbattle.dev/play/22)       | ❌                                                |
-| 023 | <img width=100 height=75 alt="Target 023 Image" src=https://cssbattle.dev/targets/23.png>    | [Boxecption](https://cssbattle.dev/play/23)       | ❌                                                |
-| 024 | <img width=100 height=75 alt="Target 024 Image" src=https://cssbattle.dev/targets/24.png>    | [Switches](https://cssbattle.dev/play/24)       | ❌                                                |
-| 025 | <img width=100 height=75 alt="Target 025 Image" src=https://cssbattle.dev/targets/25.png>    | [Blossom](https://cssbattle.dev/play/25)       | ❌                                                |
-| 026 | <img width=100 height=75 alt="Target 026 Image" src=https://cssbattle.dev/targets/26.png>    | [Smiley](https://cssbattle.dev/play/26)       | ❌                                                |
-| 027 | <img width=100 height=75 alt="Target 027 Image" src=https://cssbattle.dev/targets/27.png>    | [Lock Up](https://cssbattle.dev/play/27)       | ❌                                                |
-| 028 | <img width=100 height=75 alt="Target 028 Image" src=https://cssbattle.dev/targets/28.png>    | [Cups & Balls](https://cssbattle.dev/play/28)       | ❌                                                |
+| 021 | <img width=100 height=75 alt="Target 021 Image" src=https://cssbattle.dev/targets/21.png>    | [SitePoint Logo](https://cssbattle.dev/play/21)      | ❌                                            |
+| 022 | <img width=100 height=75 alt="Target 022 Image" src=https://cssbattle.dev/targets/22.png>    | [Cloud](https://cssbattle.dev/play/22)               | ❌                                            |
+| 023 | <img width=100 height=75 alt="Target 023 Image" src=https://cssbattle.dev/targets/23.png>    | [Boxecption](https://cssbattle.dev/play/23)          | ❌                                            |
+| 024 | <img width=100 height=75 alt="Target 024 Image" src=https://cssbattle.dev/targets/24.png>    | [Switches](https://cssbattle.dev/play/24)            | [✔️](004-display/024_switches.md)             |
+| 025 | <img width=100 height=75 alt="Target 025 Image" src=https://cssbattle.dev/targets/25.png>    | [Blossom](https://cssbattle.dev/play/25)             | ❌                                            |
+| 026 | <img width=100 height=75 alt="Target 026 Image" src=https://cssbattle.dev/targets/26.png>    | [Smiley](https://cssbattle.dev/play/26)              | ❌                                            |
+| 027 | <img width=100 height=75 alt="Target 027 Image" src=https://cssbattle.dev/targets/27.png>    | [Lock Up](https://cssbattle.dev/play/27)             | [✔️](004-display/027_lock-up.md)              |
+| 028 | <img width=100 height=75 alt="Target 028 Image" src=https://cssbattle.dev/targets/28.png>    | [Cups & Balls](https://cssbattle.dev/play/28)        | ❌                                            |
 
 </details>
 
