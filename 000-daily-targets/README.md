@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>68</td>
+            <td width="312px" align=right>69</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>66</td>
+            <td align=right>67</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>66</td>
+            <td align=right>67</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>45676.68 (Ø671.72)</td>
+            <td align=right>46359.68 (Ø671.88)</td>
         </tr>
     </tbody>
 </table>
