@@ -7,12 +7,58 @@
 
 ## Goal
 ### Classic Targets (Rank)
-2,000 or higher:            ✔️ (2023-??-??)
-1,500 or higher:            ✔️ (2023-10-26)
-1,000 or higher:            ❌
-&nbsp;&nbsp;500 or higher:  ❌
-&nbsp;&nbsp;250 or higher:  ❌
-&nbsp;&nbsp;100 or higher:  ❌
+<table>
+    <thead>
+        <th>Rank</th>
+        <th>Achieved</th>
+    </thead>
+    <tbody align=center>
+        <tr>
+            <td>2,000 or higher</td>
+            <td>✔️<sub>2023-??-??</sub></td>
+        </tr>
+        <tr>
+            <td>1,750 or higher</td>
+            <td>✔️<sub>2023-??-??</sub></td>
+        </tr>
+        <tr>
+            <td>1,500 or higher</td>
+            <td>✔️<sub>2023-10-26</sub></td>
+        </tr>
+        <tr>
+            <td>1,250 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>1,000 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>750 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>500 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>250 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>200 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>150 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+        <tr>
+            <td>100 or higher</td>
+            <td>❌<sub>not unlocked</sub></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Daily Targets (Days)
 &nbsp;50:   [✔️](000-daily-targets/src/markdown/daily-target_2023-09-02.md)
@@ -140,7 +186,7 @@
 </details>
 
 
-<details open>
+<details close>
     <summary>
         <h3>❌ Battle #19 - Spacing</h3>
     </summary>
