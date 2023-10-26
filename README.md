@@ -6,17 +6,18 @@
 
 
 ## Goal
-### Classic Targets
-1. Rank 2,000 or higher: ✔️ (2023-??-??)
-2. Rank 1,500 or higher: ❌
-3. Rank 1,000 or higher: ❌
-4. Rank 500 or higher: ❌
-5. Rank 250 or higher: ❌
-6. Rank 100 or higher: ❌
+### Classic Targets (Rank)
+2,000 or higher:            ✔️ (2023-??-??)
+1,500 or higher:            ✔️ (2023-10-26)
+1,000 or higher:            ❌
+&nbsp;&nbsp;500 or higher:  ❌
+&nbsp;&nbsp;250 or higher:  ❌
+&nbsp;&nbsp;100 or higher:  ❌
 
-### Daily Targets
-1. Day  50: [✔️](000-daily-targets/src/markdown/daily-target_2023-09-02.md)
-2. Day 100: ❌ *not reached yet*
+### Daily Targets (Days)
+&nbsp;50:   [✔️](000-daily-targets/src/markdown/daily-target_2023-09-02.md)
+&nbsp;75:   ❌ *not reached yet*
+100:        ❌ *not reached yet*
 
 
 
@@ -135,6 +136,30 @@
 | 042 | <img width=100 height=75 alt="Target 042 Image" src=https://cssbattle.dev/targets/42.png>    | [Baby](https://cssbattle.dev/play/42)            | [✔️](008-transition/042_baby.md)      |
 | 043 | <img width=100 height=75 alt="Target 043 Image" src=https://cssbattle.dev/targets/43.png>    | [Wrench](https://cssbattle.dev/play/43)          | [✔️](008-transition/043_wrench.md)    |
 | 044 | <img width=100 height=75 alt="Target 044 Image" src=https://cssbattle.dev/targets/44.png>    | [Stripes](https://cssbattle.dev/play/44)         | [✔️](008-transition/044_stripes.md)   |
+
+</details>
+
+
+<details open>
+    <summary>
+        <h3>❌ Battle #19 - Spacing</h3>
+    </summary>
+
+[Link to the battle](https://cssbattle.dev/battle/19)
+
+- My highest place in the overall leaderboard: ---
+- Finish rank: ---
+
+| No. | Target | Name | Solved |
+|:-:|:-:|:-:|:-:|
+| 109 | <img width=100 height=75 alt="Target 109 Image" src=https://cssbattle.dev/targets/109.png>  | [Curtain](https://cssbattle.dev/play/109)         | ✔️ |
+| 110 | <img width=100 height=75 alt="Target 110 Image" src=https://cssbattle.dev/targets/110.png>  | [Sunrays](https://cssbattle.dev/play/110)         | ❌ |
+| 111 | <img width=100 height=75 alt="Target 111 Image" src=https://cssbattle.dev/targets/111.png>  | [Rain Drops](https://cssbattle.dev/play/111)      | ❌ |
+| 112 | <img width=100 height=75 alt="Target 112 Image" src=https://cssbattle.dev/targets/112.png>  | [Chevron](https://cssbattle.dev/play/112)         | ❌ |
+| 113 | <img width=100 height=75 alt="Target 113 Image" src=https://cssbattle.dev/targets/113.png>  | [Black Light](https://cssbattle.dev/play/113)     | [✔️](024-offset/147_splash.md) |
+| 114 | <img width=100 height=75 alt="Target 114 Image" src=https://cssbattle.dev/targets/114.png>  | [Negative Box](https://cssbattle.dev/play/114)    | [✔️](024-offset/148_eight.md)  |
+| 115 | <img width=100 height=75 alt="Target 115 Image" src=https://cssbattle.dev/targets/115.png>  | [Droplet](https://cssbattle.dev/115/149)          | ❌ |
+| 116 | <img width=100 height=75 alt="Target 116 Image" src=https://cssbattle.dev/targets/116.png>  | [Headphones](https://cssbattle.116play/150)       | ❌ |
 
 </details>
 
