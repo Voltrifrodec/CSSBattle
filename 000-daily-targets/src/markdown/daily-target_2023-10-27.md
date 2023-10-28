@@ -1,5 +1,12 @@
-//TODO: Change to Markdown file as usual
+# Daily Target: 27/10/2023
 
+[Link to the target](https://cssbattle.dev/play/ufiyLFHqECtVCCbRWyZd)
+
+![img](../images/target-solution/daily-target_2023-10-27.png)
+
+<br>
+
+```html
 <style>
   * {
     background: #CBE8DD;
@@ -17,47 +24,15 @@
     -webkit-box-reflect: left -1px
   }
 </style>
+```
+
+## Attempts
+| Attempt | Score | Link |
+|:-:|:-:|:-:|
+| 1 | 616.27 {336}, 100.0% match | [Link to the solution](../html/daily-target_2023-10-27_attempt-01.html) |
+| 2 | 624.27 {294}, 100.0% match | [Link to the solution](../html/daily-target_2023-10-27_attempt-02.html) |
+| 3 | 674.03 {177}, 100.0% match | [Link to the solution](../html/daily-target_2023-10-27_attempt-03.html) |
+| 4 | 712.60 {133}, 100.0% match | [Link to the solution](../html/daily-target_2023-10-27_attempt-04.html) |
 
 
-616.27 {336}
-
-
-----
-
-
-<style>
-  * {
-    background: #CBE8DD;
-    border-style: solid;
-    border-width: 0 94pt 35vw;
-    border-color: #0000 #0000 #007192 #0000;
-    height: 0;
-    margin: 80 75;
-  }
-  *>* {
-    background: #0000;
-    scale: 0.50 0.71;
-    margin: 20 -63;
-    -webkit-box-reflect: left;
-  }
-</style>
-
-
-624.27 {294}
-
-
-----
-
-
-<style>*{background:#cbe8dd;border:solid;border-width:0+94pt+35vw;border-color:07192#0000;height:0;margin:80+75;+*{background:0;scale:.5.71;margin:20-63;-webkit-box-reflect:left
-
-
-674.03 {177}
-
-
-----
-
-<style>*{background:#cbe8dd;>*{background:#007192;clip-path:polygon(71q+224q,335q+224q,269q+118q,257q+137q,50%25%,149q+137q,137q+118q
-
-
-712.6 {133}
+## Other solutions
