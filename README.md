@@ -62,7 +62,7 @@
 
 ### Daily Targets (Days)
 &nbsp;50:   [✔️](000-daily-targets/src/markdown/daily-target_2023-09-02.md)
-&nbsp;75:   ❌ *not reached yet*
+&nbsp;75:   [✔️](000-daily-targets/src/markdown/daily-target_2023-10-29.md)
 100:        ❌ *not reached yet*
 
 
