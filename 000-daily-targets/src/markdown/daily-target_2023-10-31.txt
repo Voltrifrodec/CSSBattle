@@ -1,0 +1,46 @@
+<style>
+  *>* {
+    --x: repeating-conic-gradient(#FAD5E5 0 50%, #0000 0 75%) no-repeat;
+    --y: repeating-conic-gradient(#F067A6 0 50%, #0000 0 75%) no-repeat;
+    background: var(--x) 110px 60px/60px 60px, var(--x) 170px 120px/60px 60px, var(--x) 230px 180px/60px 60px, var(--y) 230px 60px/60px 60px, var(--y) 110px 180px/60px 60px, #763258 no-repeat;
+  }
+</style>
+
+611.99 {368}, 100.0% match
+
+
+----
+
+
+<style>
+  * {
+    --x: repeating-conic-gradient(#FAD5E5 0 50%, #0000 0 75%) no-repeat;
+    --y: repeating-conic-gradient(#F067A6 0 50%, #0000 0 75%) no-repeat;
+    background: var(--x) 34vh 55q, var(--x) 50% 7pc, var(--x) 74vh 43vw, var(--y) 74vh 55q, var(--y) 34vh 77%, #763258;
+    background-size: 64q 64q;
+  }
+</style>
+
+618.59 {322}, 100.0% match
+
+
+----
+
+
+<style>*{--x:repeating-conic-gradient(#FAD5E5+0+50%,#0000+0+75%)no-repeat;--y:repeating-conic-gradient(#F067A6+0+50%,#0000+0+75%)no-repeat;background:var(--x)34vh+55q,var(--x)50%7pc,var(--x)74vh+43vw,var(--y)74vh+55q,var(--y)34vh+77%,#763258;background-size:64q+64q
+
+632.00 {265}, 100.0% match
+
+
+----
+
+Other solutions (99.9% :[):
+▜<style>*{background:#763258;color:#fad5e5;font:1.91rem'';margin:28 56;scale:1.01;text-shadow:124q 0 #f067a6,62q 62q,0 124q #f067a6,124q 124q}</style>
+
+597.90 {150}, 99.9% match
+
+
+[ OVERALL STATS ]
+77 days, 79 targets played, 100% avg match, 194 avg characters
+
+
