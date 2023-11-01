@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>79</td>
+            <td width="312px" align=right>80</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>77</td>
+            <td align=right>78</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>77</td>
+            <td align=right>78</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,11 +32,11 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>194</td>
+            <td align=right>195</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>53192.89 (Ø673.33)</td>
+            <td align=right>53833.12 (Ø672.91)</td>
         </tr>
     </tbody>
 </table>
@@ -129,6 +129,7 @@
                 <img src="src/images/target-preview/target_2023-10-29.png" width=50 alt="Daily Target Image - 2023/10/29">
                 <img src="src/images/target-preview/target_2023-10-30.png" width=50 alt="Daily Target Image - 2023/10/30">
                 <img src="src/images/target-preview/target_2023-10-31.png" width=50 alt="Daily Target Image - 2023/10/31">
+                <img src="src/images/target-preview/target_2023-11-01.png" width=50 alt="Daily Target Image - 2023/11/01">
             </td>
         </tr>
     </tbody>
@@ -138,8 +139,22 @@
 
 ## Calendar
 
-
 <details open>
+    <summary>
+        <h3>November 2023</h3>
+    </summary>
+
+| Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 44 | ➖ | ➖ | 1<sub>[✔️](src/markdown/daily-target_2023-11-01.md)</sub> | 2 | 3 | 4 | 5 |
+| 45 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
+| 46 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 47 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 48 | 27 | 28 | 29 | 30 | ➖ | ➖ | ➖ |
+
+</details>
+
+<details close>
     <summary>
         <h3>October 2023</h3>
     </summary>
