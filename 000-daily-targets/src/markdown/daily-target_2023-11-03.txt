@@ -1,0 +1,73 @@
+<p a><p b><p c>
+<style>
+  * {
+    background: #8C80BB;
+    position: fixed;
+  }
+  [a] {
+    background: conic-gradient(#0000 0 75%, #FCDFEB 0);
+    border-radius: 50%;
+    padding: 100 100;
+    margin: 62 77;
+    -webkit-box-reflect: right -170px;
+  }
+  [b] {
+    -webkit-box-reflect: right -50px;
+    background: #FCDFEB;
+    margin: 172 167;
+    border-radius: 50%;
+    padding: 25;
+  }
+  [c] {
+    border: 20px solid #8C80BB;
+    padding: 100;
+    background: 0;
+    border-radius: 52px;
+    -webkit-box-reflect: right -16px;
+    margin: -55 -40px
+  }
+</style>
+
+601.87 {563}, 100.0% match
+
+
+----
+
+
+<p><p><p>
+<style>
+  * {
+    background: #8C80BB;
+    position: fixed;
+    border-radius: 50%;
+  }
+  p {
+    background: #FCDFEB;
+    margin: 172 167;
+    padding: 25;
+  +p {
+    background: conic-gradient(#0000 75%, #FCDFEB 0);
+    padding: 100;
+    margin: 62 77;
+    -webkit-box-reflect: right -85%;
+  +p {
+    border: 5vw solid #8C80BB;
+    padding: 100;
+    background: 0;
+    border-radius: 21%;
+    -webkit-box-reflect: right -1pc;
+    margin: -55 -40;
+  }
+</style>
+
+604.49 {471}, 100.0% match
+
+
+----
+
+<p><p><p><style>*{background:#8c80bb;position:fixed;border-radius:50%}p{background:#fcdfeb;margin:172+167;padding:25;+p{background:conic-gradient(#0000,75%,#fcdfeb+0);padding:100;margin:62+77;-webkit-box-reflect:right -85%;+p{border:solid#8c80bb+5vw;padding:100;background:0;border-radius:21%;-webkit-box-reflect:right -1pc;margin:-55-40
+
+616.11 {337}, 100.0% match
+
+
+100% avg match, 196 avg characters
