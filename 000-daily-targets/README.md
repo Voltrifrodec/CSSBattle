@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>82</td>
+            <td width="312px" align=right>83</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>80</td>
+            <td align=right>81</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>80</td>
+            <td align=right>81</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,7 +32,7 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>196</td>
+            <td align=right>195</td>
         </tr>
         <tr>
             <td>Score</td>
@@ -132,6 +132,7 @@
                 <img src="src/images/target-preview/target_2023-11-01.png" width=50 alt="Daily Target Image - 2023/11/01">
                 <img src="src/images/target-preview/target_2023-11-02.png" width=50 alt="Daily Target Image - 2023/11/02">
                 <img src="src/images/target-preview/target_2023-11-03.png" width=50 alt="Daily Target Image - 2023/11/03">
+                <img src="src/images/target-preview/target_2023-11-04.png" width=50 alt="Daily Target Image - 2023/11/04">
             </td>
         </tr>
     </tbody>
@@ -148,7 +149,7 @@
 
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 44 | ➖ | ➖ | 1<sub>[✔️](src/markdown/daily-target_2023-11-01.md)</sub> | 2<sub>[✔️](src/markdown/daily-target_2023-11-02.md)</sub> | 3<sub>[✔️](src/markdown/daily-target_2023-11-03.md)</sub> | 4 | 5 |
+| 44 | ➖ | ➖ | 1<sub>[✔️](src/markdown/daily-target_2023-11-01.md)</sub> | 2<sub>[✔️](src/markdown/daily-target_2023-11-02.md)</sub> | 3<sub>[✔️](src/markdown/daily-target_2023-11-03.md)</sub> | 4<sub>[✔️](src/markdown/daily-target_2023-11-04.md)</sub> | 5 |
 | 45 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
 | 46 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 47 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
