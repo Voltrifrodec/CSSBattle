@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>86</td>
+            <td width="312px" align=right>87</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>84</td>
+            <td align=right>85</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>84</td>
+            <td align=right>85</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,11 +32,11 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>197</td>
+            <td align=right>198</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>57762.57 (Ø671.66)</td>
+            <td align=right>58406.82 (Ø671.34)</td>
         </tr>
     </tbody>
 </table>
@@ -136,6 +136,7 @@
                 <img src="src/images/target-preview/target_2023-11-05.png" width=50 alt="Daily Target Image - 2023/11/05">
                 <img src="src/images/target-preview/target_2023-11-06.png" width=50 alt="Daily Target Image - 2023/11/06">
                 <img src="src/images/target-preview/target_2023-11-07.png" width=50 alt="Daily Target Image - 2023/11/07">
+                <img src="src/images/target-preview/target_2023-11-08.png" width=50 alt="Daily Target Image - 2023/11/08">
             </td>
         </tr>
     </tbody>
@@ -153,7 +154,7 @@
 | Week | Mon | Tue | Wed | Thr | Fri | Sat | Sun |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 44 | ➖ | ➖ | 1<sub>[✔️](src/markdown/daily-target_2023-11-01.md)</sub> | 2<sub>[✔️](src/markdown/daily-target_2023-11-02.md)</sub> | 3<sub>[✔️](src/markdown/daily-target_2023-11-03.md)</sub> | 4<sub>[✔️](src/markdown/daily-target_2023-11-04.md)</sub> | 5<sub>[✔️](src/markdown/daily-target_2023-11-05.md)</sub> |
-| 45 | 6<sub>[✔️](src/markdown/daily-target_2023-11-06.md)</sub> |  7<sub>[✔️](src/markdown/daily-target_2023-11-07.md)</sub> |  8 |  9 | 10 | 11 | 12 |
+| 45 | 6<sub>[✔️](src/markdown/daily-target_2023-11-06.md)</sub> |  7<sub>[✔️](src/markdown/daily-target_2023-11-07.md)</sub> |  8<sub>[✔️](src/markdown/daily-target_2023-11-08.md)</sub> |  9 | 10 | 11 | 12 |
 | 46 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 47 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 48 | 27 | 28 | 29 | 30 | ➖ | ➖ | ➖ |
