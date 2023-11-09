@@ -312,6 +312,11 @@
 | 171 | <img width=100 height=75 alt="Target 171 Image" src=https://cssbattle.dev/targets/171.png>  | [Pumpkin](https://cssbattle.dev/play/171)        | [❌](028-revert/171_pumpkin.md)            |
 | 172 | <img width=100 height=75 alt="Target 172 Image" src=https://cssbattle.dev/targets/172.png>  | [Crossbones](https://cssbattle.dev/play/172)     | [❌](028-revert/172_crossbones.md)         |
 | 173 | <img width=100 height=75 alt="Target 173 Image" src=https://cssbattle.dev/targets/173.png>  | [Hockey Mask](https://cssbattle.dev/play/173)    | [✔️](028-revert/173_hockey-mask.md)        |
+| 174 | <img width=100 height=75 alt="Target 174 Image" src=https://cssbattle.dev/targets/174.png>  | [Witch's Hat](https://cssbattle.dev/play/174)    | ❌        |
+| 175 | <img width=100 height=75 alt="Target 175 Image" src=https://cssbattle.dev/targets/175.png>  | [Evil Cat](https://cssbattle.dev/play/175)    | ❌        |
+| 176 | <img width=100 height=75 alt="Target 176 Image" src=https://cssbattle.dev/targets/176.png>  | [Castlevania](https://cssbattle.dev/play/176)    | ❌        |
+| 177 | <img width=100 height=75 alt="Target 177 Image" src=https://cssbattle.dev/targets/177.png>  | [Frankenstein](https://cssbattle.dev/play/177)    | [✔️](028-revert/177_frankenstein.md)       |
+| 178 | <img width=100 height=75 alt="Target 178 Image" src=https://cssbattle.dev/targets/178.png>  | [CandyG](https://cssbattle.dev/play/178)    | ❌        |
 
 </details>
 
