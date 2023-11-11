@@ -305,7 +305,7 @@
 
 [Link to the battle](https://cssbattle.dev/battle/28)
 - My highest place in the overall leaderboard: 20 (2023-10-13)
-- Finish rank: ---
+- Finish rank: 185
 
 | No. | Target | Name | Solved |
 |:-:|:-:|:-:|:-:|
@@ -316,7 +316,7 @@
 | 175 | <img width=100 height=75 alt="Target 175 Image" src=https://cssbattle.dev/targets/175.png>  | [Evil Cat](https://cssbattle.dev/play/175)    | ❌        |
 | 176 | <img width=100 height=75 alt="Target 176 Image" src=https://cssbattle.dev/targets/176.png>  | [Castlevania](https://cssbattle.dev/play/176)    | ❌        |
 | 177 | <img width=100 height=75 alt="Target 177 Image" src=https://cssbattle.dev/targets/177.png>  | [Frankenstein](https://cssbattle.dev/play/177)    | [✔️](028-revert/177_frankenstein.md)       |
-| 178 | <img width=100 height=75 alt="Target 178 Image" src=https://cssbattle.dev/targets/178.png>  | [CandyG](https://cssbattle.dev/play/178)    | ❌        |
+| 178 | <img width=100 height=75 alt="Target 178 Image" src=https://cssbattle.dev/targets/178.png>  | [Candy](https://cssbattle.dev/play/178)    | ❌        |
 
 </details>
 
