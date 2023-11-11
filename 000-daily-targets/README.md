@@ -16,15 +16,15 @@
     <tbody>
         <tr width="1000px">
             <td width="712px">Targets played</td>
-            <td width="312px" align=right>89</td>
+            <td width="312px" align=right>90</td>
         </tr>
         <tr>
             <td>Current streak</td>
-            <td align=right>87</td>
+            <td align=right>88</td>
         </tr>
         <tr>
             <td>Longest streak</td>
-            <td align=right>87</td>
+            <td align=right>88</td>
         </tr>
         <tr>
             <td>Average match</td>
@@ -32,11 +32,11 @@
         </tr>
         <tr>
             <td>Average characters</td>
-            <td align=right>198</td>
+            <td align=right>199</td>
         </tr>
         <tr>
             <td>Score</td>
-            <td align=right>59702.39 (Ø670.81)</td>
+            <td align=right>60353.93 (Ø670.60)</td>
         </tr>
     </tbody>
 </table>
@@ -139,6 +139,7 @@
                 <img src="src/images/target-preview/target_2023-11-08.png" width=50 alt="Daily Target Image - 2023/11/08">
                 <img src="src/images/target-preview/target_2023-11-09.png" width=50 alt="Daily Target Image - 2023/11/09">
                 <img src="src/images/target-preview/target_2023-11-10.png" width=50 alt="Daily Target Image - 2023/11/10">
+                <img src="src/images/target-preview/target_2023-11-11.png" width=50 alt="Daily Target Image - 2023/11/11">
             </td>
         </tr>
     </tbody>
