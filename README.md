@@ -5,86 +5,147 @@
 - Profile: [https://cssbattle.dev/player/voltrifrodec](https://cssbattle.dev/player/voltrifrodec)
 
 
-## Goal
-### Classic Targets (Rank)
-<table>
-    <thead>
-        <th>Rank</th>
-        <th>Achieved</th>
-    </thead>
-    <tbody align=center>
-        <tr>
-            <td>2,000 or higher</td>
-            <td>✔️<sub>2023-??-??</sub></td>
-        </tr>
-        <tr>
-            <td>1,750 or higher</td>
-            <td>✔️<sub>2023-??-??</sub></td>
-        </tr>
-        <tr>
-            <td>1,500 or higher</td>
-            <td>✔️<sub>2023-10-26</sub></td>
-        </tr>
-        <tr>
-            <td>1,250 or higher</td>
-            <td>✔️<sub>2023-11-11</sub></td>
-        </tr>
-        <tr>
-            <td>1,000 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>750 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>500 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>250 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>200 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>150 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-        <tr>
-            <td>100 or higher</td>
-            <td>❌<sub>not achieved</sub></td>
-        </tr>
-    </tbody>
-</table>
+## Goals
+<details close>
+    <summary>
+        <h3>Classic Targets (Rank)</h3>
+    </summary>
+    <table>
+        <thead>
+            <th>Rank</th>
+            <th>Achieved</th>
+        </thead>
+        <tbody align=center>
+            <tr>
+                <td>2,000 or higher</td>
+                <td>✔️<sub>2023-??-??</sub></td>
+            </tr>
+            <tr>
+                <td>1,750 or higher</td>
+                <td>✔️<sub>2023-??-??</sub></td>
+            </tr>
+            <tr>
+                <td>1,500 or higher</td>
+                <td>✔️<sub>2023-10-26</sub></td>
+            </tr>
+            <tr>
+                <td>1,250 or higher</td>
+                <td>✔️<sub>2023-11-11</sub></td>
+            </tr>
+            <tr>
+                <td>1,000 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>750 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>500 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>250 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>200 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>150 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>100 or higher</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
-### Daily Targets (Days)
-<table>
-    <thead>
-        <th>Day</th>
-        <th>Achieved</th>
-    </thead>
-    <tbody align=center>
-        <tr>
-            <td>25</td>
-            <td><a href=000-daily-targets/src/markdown/daily-target_2023-08-28.md>✔️</a><sub>2023-08-28</td>
-        </td>
-        <tr>
-            <td>50</td>
-            <td><a href=000-daily-targets/src/markdown/daily-target_2023-09-02.md>✔️</a><sub>2023-09-02</td>
-        </td>
-        <tr>
-            <td>75</td>
-            <td><a href=000-daily-targets/src/markdown/daily-target_2023-10-29.md>✔️</a><sub>2023-10-29</td>
-        </td>
-        <tr>
-            <td>100</td>
-            <td>❌<sub>not achieved</td>
-        </td>
-    </tbody>
-</table>
+<details close>
+    <summary>
+        <h3>Classic Targets (Targets Played)</h3>
+    </summary>
+    <table>
+        <thead>
+            <th>Number</th>
+            <th>Achieved</th>
+        </thead>
+        <tbody align=center>
+            <tr>
+                <td>25</td>
+                <td>✔️<sub>202?-??-??</sub></td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td>✔️<sub>202?-??-??</sub></td>
+            </tr>
+            <tr>
+                <td>75</td>
+                <td>✔️<sub>2023-11-11</sub></td>
+            </tr>
+            <tr>
+                <td>100</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>125</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>150</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>175</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <tr>
+                <td>178*</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr>
+            <!-- <tr>
+                <td>200</td>
+                <td>❌<sub>not achieved</sub></td>
+            </tr> -->
+        </tbody>
+    </table>
+    <br>
+    <p>* - Total amount of all targets in 2023-11-13.</p>
+    <p><i>Only the ones solved on 100.0% counts. Most of the existing solutions have not been added yet.</i></p>
+</details> 
+
+<details close>
+    <summary>
+        <h3>Daily Targets (Days)</h3>
+    </summary>
+    <table>
+        <thead>
+            <th>Day</th>
+            <th>Achieved</th>
+        </thead>
+        <tbody align=center>
+            <tr>
+                <td>25</td>
+                <td><a href=000-daily-targets/src/markdown/daily-target_2023-08-28.md>✔️</a><sub>2023-08-28</td>
+            </td>
+            <tr>
+                <td>50</td>
+                <td><a href=000-daily-targets/src/markdown/daily-target_2023-09-02.md>✔️</a><sub>2023-09-02</td>
+            </td>
+            <tr>
+                <td>75</td>
+                <td><a href=000-daily-targets/src/markdown/daily-target_2023-10-29.md>✔️</a><sub>2023-10-29</td>
+            </td>
+            <tr>
+                <td>100</td>
+                <td>❌<sub>not achieved</td>
+            </td>
+        </tbody>
+    </table>
+</details>
 
 
 
