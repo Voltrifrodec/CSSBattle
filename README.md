@@ -359,9 +359,9 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>
-        <h3>❌ Battle #28 - Revert [ONGOING]</h3>
+        <h3>❌ Battle #28 - Revert</h3>
     </summary>
 
 [Link to the battle](https://cssbattle.dev/battle/28)
