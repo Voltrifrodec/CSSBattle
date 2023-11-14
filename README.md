@@ -211,7 +211,7 @@
 
 <details close>
     <summary>
-        <h3>Daily Targets: Longest Streak</h3>
+        <h3>Daily Targets: Longest streak</h3>
     </summary>
     <table>
         <thead>
