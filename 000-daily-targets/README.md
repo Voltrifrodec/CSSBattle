@@ -10,6 +10,9 @@
 <table>
     <thead>
         <tr>
+            <th colspan=2>This file is not updated yet.</th>
+        </tr>
+        <tr>
             <th colspan=2>My stats</th>
         </tr>
     </thead>
