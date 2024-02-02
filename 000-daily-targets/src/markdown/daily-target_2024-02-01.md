@@ -95,8 +95,8 @@
 		<td colspan=4 bgcolor=FFAAAA id=disclaimer>
 
 ### $${\color{red} \mathrm{DISCLAIMER}}$$
-**DO NOT** look at the solutions until you have solved the target, or at least time and try solve it on your own. Skipping to solution without trying won't do you any good.
-I do not accept any responsibility or liability whatsoever for created consequences. I deserve to change any part of the file (or the repository as a whole) without notice.
+**DO NOT** look at the solutions until you have solved the target, or at least spend time and try solving it on your own first. Skipping to the solution without trying won't do you any good.
+I do not accept any responsibility or liability whatsoever for created consequences. I deserve the right to change any part of the file (or the repository as a whole) without notice.
 <br>
 You have been warned. 
 		</td>

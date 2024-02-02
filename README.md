@@ -279,11 +279,9 @@
 Not updated yet.
 
 ### February 2024
-<a>
+<a href="./000-daily-targets/src/markdown/daily-target_2024-02-01.md">
     <img src=./000-daily-targets/src/images/target-preview/target_2024-02-01.png width=50 alt="Daily target: 01/02/2024" title="Daily target: 01/02/2024">
-    
 </a>
-
 
 ## Battles
 
