@@ -297,6 +297,9 @@ Not updated yet.
 <a href="./000-daily-targets/src/markdown/daily-target_2024-02-06.md">
     <img src=./000-daily-targets/src/images/target-preview/target_2024-02-06.png width=50 alt="Daily target: 06/02/2024" title="Daily target: 06/02/2024">
 </a>
+<a href="./000-daily-targets/src/markdown/daily-target_2024-02-07.md">
+    <img src=./000-daily-targets/src/images/target-preview/target_2024-02-07.png width=50 alt="Daily target: 07/02/2024" title="Daily target: 07/02/2024">
+</a>
 
 ## Battles
 
