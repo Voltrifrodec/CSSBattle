@@ -57,7 +57,7 @@
 				<b>7th February</b>
 			</td>
 			<td align="right">
-				<a href="../../README.md">❌ 8th February 2024</a> &rarr;
+				<a href="./daily-target_2024-02-08.md">✔️ 8th February 2024</a> &rarr;
 			</td>
 		</tr>
 	</thead>
@@ -166,7 +166,7 @@ Score: 619.13 {319}, ${\color{lightgreen} 100.0\\% \space \mathrm{match}}$
 <style>&{background:linear-gradient(90deg,#f59426,5ch,#0000+0,5pc,#f59426+0)no-repeat#ffff9c+50%100%/30%40%;>*{background:#f59426;height:40;margin:60+180;color:F59426;box-shadow:-5ch+5ch,-5pc+5pc,5ch+5ch,5pc+5pc
 ```
 
-Score: 619.13 {319}, ${\color{lightgreen} 100.0\\% \space \mathrm{match}}$
+Score: 653.54 {211}, ${\color{lightgreen} 100.0\\% \space \mathrm{match}}$
 <br>
 
 

@@ -13,7 +13,7 @@
 					<br>
 					<br>
 					Daily Target (10/02/2024)
-					<p align=center><a href="https://cssbattle.dev/play/Oi9KI18ltoYIRtsLl851"><sub>Link to the target</sub></a></p>
+					<p align=center><a href="https://cssbattle.dev/play/AHJoYV6Hpjo3WpbnCrmM"><sub>Link to the target</sub></a></p>
 				</h3>
 				<span>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span>
 				<span>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span>
@@ -57,7 +57,7 @@
 				<b>10th February</b>
 			</td>
 			<td align="right">
-				<a href="../../README.md">❌ 11th February 2024</a> &rarr;
+				<a href="./daily-target_2024-02-11.md">✔️ 11th February 2024</a> &rarr;
 			</td>
 		</tr>
 	</thead>
@@ -167,9 +167,8 @@ Score: 732.41 {116}, ${\color{lightgreen} 100.0\\% \space \mathrm{match}}$
 <br>
 
 
-## Unresolved solutions
+## Other solutions
 
-There are no unresolved solutions for this target.
+There are no other solutions for this target.
 
 <br>
-

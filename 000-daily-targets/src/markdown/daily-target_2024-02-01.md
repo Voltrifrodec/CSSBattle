@@ -57,7 +57,7 @@
 				<b>1st February</b>
 			</td>
 			<td align="right">
-				<a href="../../README.md">❌ 2nd February 2024</a> &rarr;
+				<a href="./daily-target_2024-02-02.md">✔️ 2nd February 2024</a> &rarr;
 			</td>
 		</tr>
 	</thead>
@@ -163,9 +163,8 @@ Score: 696.67 {149}, ${\color{lightgreen} 100.0\\% \space \mathrm{match}}$
 <br>
 
 
-## Unresolved solutions
+## Other solutions
 
-There are no unresolved solutions for this target.
+There are no other solutions for this target.
 
 <br>
-
