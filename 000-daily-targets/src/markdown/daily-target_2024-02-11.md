@@ -138,7 +138,7 @@ Score: 609.91 {388}, ${\col422{lightgreen} 100.0\\% \space \mathrm{match}}$
 
 
 ## Solution 2
-```html
+```css
 <p><p><style>*{background:radial-gradient(1q,#f180b6+53q,#0000)0-64q#5f0032;>*{background-position:0+9mm;background-color:#0000}p{padding:50+25;width:0;margin:40+242;border-radius:0+53q+53q+0;box-shadow:53q+0#f180b6;background:#f180b6;+p{scale:-1;margin:-20+92
 ```
 
