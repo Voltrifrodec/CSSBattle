@@ -300,6 +300,7 @@ Not updated yet.
 <a href="./000-daily-targets/src/markdown/daily-target_2024-02-07.md">
     <img src=./000-daily-targets/src/images/target-preview/target_2024-02-07.png width=50 alt="Daily target: 07/02/2024" title="Daily target: 07/02/2024">
 </a>
+<br>
 <a href="./000-daily-targets/src/markdown/daily-target_2024-02-08.md">
     <img src=./000-daily-targets/src/images/target-preview/target_2024-02-08.png width=50 alt="Daily target: 08/02/2024" title="Daily target: 08/02/2024">
 </a>
@@ -311,6 +312,9 @@ Not updated yet.
 </a>
 <a href="./000-daily-targets/src/markdown/daily-target_2024-02-11.md">
     <img src=./000-daily-targets/src/images/target-preview/target_2024-02-11.png width=50 alt="Daily target: 11/02/2024" title="Daily target: 11/02/2024">
+</a>
+<a href="./000-daily-targets/src/markdown/daily-target_2024-02-12.md">
+    <img src=./000-daily-targets/src/images/target-preview/target_2024-02-12.png width=50 alt="Daily target: 12/02/2024" title="Daily target: 12/02/2024">
 </a>
 
 
