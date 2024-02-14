@@ -1,0 +1,58 @@
+
+https://cssbattle.dev/play/5tYZeO2j9PK3vJPJhYOT
+
+-----
+
+<p>
+<style>
+  * {
+    background: conic-gradient(#C31C1D 0 0) no-repeat center 0/20px 200px #4A1818;
+    position: fixed;
+    border: 40px solid #C31C1D;
+    border-radius: 50%;
+    margin: 60 160
+  }
+  *>* {
+    margin: 60 -110;
+    box-shadow: 140px 0 #C31C1D;
+  }
+  p {
+    border-radius: 0;
+    border-width: 10px 20px;
+    box-shadow: 50px 0 #C31C1D;
+    margin: -10 30;
+  }
+</style>
+
+609.91 {388}
+
+-----
+
+<p>
+<style>
+  * {
+    background: conic-gradient(#C31C1D 0 0) no-repeat 50% 0/21q 25ch #4A1818;
+    position: fixed;
+    border: 5ch solid #C31C1D;
+    border-radius: 50%;
+    margin: 60 160;
+  }
+  *>* {
+    margin: 60 -110;
+    box-shadow: 148q 0 #C31C1D;
+  }
+  p {
+    border-radius: 0;
+    border-width: 10 20;
+    box-shadow: 53q 0 #C31C1D;
+    margin: -10 30;
+  }
+</style>
+
+611.00 {377}
+
+-----
+
+<p><style>*{color:c31c1d;background:conic-gradient(#c31c1d+0+0)no-repeat#4a1818+50%0/21q+25ch;position:fixed;border:solid+5ch;border-radius:50%;margin:60+160;>*{margin:60-110;box-shadow:148q+0}p{border-radius:0;border-width:10+20;box-shadow:53q+0;margin:-10+30
+
+633.56 {260}
